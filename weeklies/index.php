@@ -7,13 +7,14 @@
 <head>
 <?php include("../head.php"); ?>
 </head>
-<body>
+  <body>
+  <div id="background" class='backstretch3 animated'></div>
   <div class="container">
     <?php include("../nav.php"); ?>
 
     <div class="right">
       <h2>WEEKLIES</h2>
-      <p>Weeklies are due <b>before the start of class</b> on Tuesday. Your index page should have a section with a link to each weekly. Weekly P/F grades are posted <a target="_blank" href="https://docs.google.com/spreadsheets/d/1KI-6mijcypeczlwRfitTRq2lbtJpA3hB1dGWXfkrv7U/edit?usp=sharing#gid=1091796845">here</a>, if you want to dispute a P/F you are responsible for notifying the TA within two weeks.</p>
+      <p>Weeklies are due <b>before the start of class</b> on Thursday. Your index page should have a section with a link to each weekly. Weekly P/F grades are posted <a target="_blank" href="https://docs.google.com/spreadsheets/d/1KI-6mijcypeczlwRfitTRq2lbtJpA3hB1dGWXfkrv7U/edit?usp=sharing#gid=1091796845">here</a>, if you want to dispute a P/F you are responsible for notifying the TA within two weeks.</p>
       <section>
         <h3 id="weekly1">WEEKLY 1 (DUE 10/5)</h3>
         <img src="debord.jpg">

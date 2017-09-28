@@ -8,6 +8,7 @@
 <?php include("../head.php"); ?>
 </head>
 <body>
+  <div id="background" class='backstretch4 animated'></div>
   <div class="container">
     <?php include("../nav.php"); ?>
 
@@ -22,8 +23,8 @@
           <li><a href="http://brackets.io/">Brackets</a> - Code editor for HTML/CSS/JS</li>
           <li><a href="https://cyberduck.io/?l=en">Cyberduck</a> - FTP tool for uploading files online</li>
           <li><a href="./ftp/">How to FTP</a> - Uploading your files online with Cyberduck</li>
-          <li>Brackets Beautify (autoformat) - Go to File > Extension Manager. Search for "Beautify" and select the first result. To format press Ctrl-Shift-L (Windows), Cmd-Shift-L (Mac), or <a href="https://github.com/brackets-beautify/brackets-beautify#user-key-map-for-beautify" target="_blank">define your own</a>.</li>
-          <li><a href="https://jsconsole.com/">jsconsole.com</a> - Nice tool for capturing console output from a mobile device. Type ":listen" into the prompt, copy and paste the script line into the head of your sketch's index.html page, and run the mobile sketch. Console output will show up on the page.
+<!--           <li>Brackets Beautify (autoformat) - Go to File > Extension Manager. Search for "Beautify" and select the first result. To format press Ctrl-Shift-L (Windows), Cmd-Shift-L (Mac), or <a href="https://github.com/brackets-beautify/brackets-beautify#user-key-map-for-beautify" target="_blank">define your own</a>.</li>
+          <li><a href="https://jsconsole.com/">jsconsole.com</a> - Nice tool for capturing console output from a mobile device. Type ":listen" into the prompt, copy and paste the script line into the head of your sketch's index.html page, and run the mobile sketch. Console output will show up on the page.</li> -->
         </ul>
       </section>
       

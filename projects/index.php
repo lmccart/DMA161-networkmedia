@@ -7,7 +7,8 @@
 <head>
 <?php include("../head.php"); ?>
 </head>
-<body id="projects">
+<body id="projects" class='animated2'>
+  <div id="background" class='backstretch3 animated'></div>
   <div class="container">
     <?php include("../nav.php"); ?>
 
@@ -129,14 +130,13 @@
         <p>Each of these four categories will be graded on a A(4) - F (0) scale. Outstanding or exceptional work will receive As, good work will receive Bs, sufficient work that does nothing more than meet requirements will receive Cs. The final grade will be an average of these four scores. </p>
 
         <ul>
-          <li>demonstrated understanding of the material</li>
           <li>conceptually creativity</li>
           <li>aesthetic quality</li>
           <li>technical skill</li>
         </ul>
 
         <br>
-        
+        <!--
         <h4 id="p1p0">WARMUP: FANPAGE (DUE 10/5)</h4><br>
         <div id="p1p0-content" style='display:block;'>
           <p>Even if we don't have a website, all of us (probably) have some presence online. It is spread across social media, data is collected from you with every like and transaction, for many online identities are no less real than those of the physical world, and the distinction is quickly becoming irrelevant.</p>
@@ -157,6 +157,7 @@
           </ul>
           <br>
         </div>
+      -->
         
 <!--         <h4 id="p1p1">PART 1: DESIGN CONCEPT (DUE 4/18)</h4><br>
 
