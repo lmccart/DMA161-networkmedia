@@ -46,6 +46,7 @@
             <td>Th 10/5</td>
             <td>
               DUE: <a href="<?php echo getRoot(); ?>weeklies/#weekly1">Weekly 1</a><br>
+              DUE: <a href="<?php echo getRoot(); ?>projects/#p1p2">Project 1, part 1 - Content and references</a><br>
               Lecture: <a href="<?php echo getRoot(); ?>notes/03_CSS.pdf">CSS</a> and <a href="<?php echo getRoot(); ?>notes/03_CSS.pdf">User Experience</a><br>
               Workshop: Fanpage
             </td>
@@ -58,7 +59,7 @@
             <td>WEEK 2</td>
             <td>T 10/10</td>
             <td>
-              DUE: <a href="<?php echo getRoot(); ?>projects/#p1p1">Project 1, part 1 - Design concept</a><br>
+              DUE: <a href="<?php echo getRoot(); ?>projects/#p1p2">Project 1, part 2 - Design concept and sitemap</a><br>
               Lecture: <a href="<?php echo getRoot(); ?>notes/06_layout.pdf">Wireframes, mockups, and layout</a><br>
               Lecture: Online identity and surveillance<br>
             </td>
@@ -69,7 +70,7 @@
             <td>Th 10/12</td>
             <td>
               DUE: <a href="<?php echo getRoot(); ?>weeklies/#weekly2">Weekly 2</a><br>
-              DUE: <a href="<?php echo getRoot(); ?>projects/#p1p2">Project 1, part 2 - Wireframes and mockups</a><br>
+              DUE: <a href="<?php echo getRoot(); ?>projects/#p1p3">Project 1, part 3 - Wireframes and mockups</a><br>
               Lightning Lecture: <a href='https://www.laurenvalley.com'>Lauren Valley</a><br>
               Studio / individual meetings
             </td>
@@ -104,7 +105,7 @@
             <td>WEEK 4</td>
             <td>T 10/24</td>
             <td>
-              DUE: <a href="<?php echo getRoot(); ?>projects/#p1p3">Project 1 - Portfolio</a><br>
+              DUE: <a href="<?php echo getRoot(); ?>projects/#p1p4">Project 1 - Portfolio</a><br>
               Review Project 1<br>
               <span style='background:orange'>DMA Lecture: <a href='http://dma.ucla.edu/events/calendar/?ID=1037'>Yung Jake</a></span><br>
             </td>

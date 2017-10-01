@@ -127,7 +127,7 @@
         <h3 id="project1">PROJECT 1</h3>
         <p>In this project you will be designing and developing an online portfolio or website that represents you. You will research and determine a site concept, create a design based on this, and finally built it with HTML and CSS. How do you want others to see you and your work? What do you want them to notice first? What do you want them to takeaway?</p>
 
-        <p>Each of these four categories will be graded on a A(4) - F (0) scale. Outstanding or exceptional work will receive As, good work will receive Bs, sufficient work that does nothing more than meet requirements will receive Cs. The final grade will be an average of these four scores. </p>
+        <p>Each of these three categories will be graded on a A(4) - F (0) scale. Outstanding or exceptional work will receive As, good work will receive Bs, sufficient work that does nothing more than meet requirements will receive Cs. The final grade will be an average of these four scores. </p>
 
         <ul>
           <li>conceptually creativity</li>
@@ -159,23 +159,31 @@
         </div>
       -->
         
-<!--         <h4 id="p1p1">PART 1: DESIGN CONCEPT (DUE 4/18)</h4><br>
+        <h4 id="p1p1">PART 1: CONTENT AND REFERENCES (DUE 10/5)</h4><br>
+        <div id="p1p1-content" style='display:block'>
 
-        <div id="p1p1-content" style='display:none'>
-          <p>Before you begin building anything, it is a good idea to first prepare a design document that outlines the goals of the site, the user experience, and the overall design. This document will guide you through the development process.</p>
+          <p>Before you begin building anything, it is a good idea to first prepare a design document that outlines the goals of the site, the user experience, and the overall design. This document will guide you through the development process. We will begin by thinking about the content you want to include in your website, and examples of other websites you find inspiring. Please create a document that includes the following. This can be a digital file, or you can print it out.</p>
           
-          <p>For Tuesday, be prepared to share a printed document with the class that includes the following parts:</p>
           <ol>
             <li style="padding-bottom: 0.5em;">References – Find at least four examples of artist or designer websites or portfolios that inspire you (you are looking for inspiring websites, not just websites of inspiring artists/designers). Include a screenshot, a sentence that tries to sum up their "design concept", and a sentence about what you like about the site and why.</li>
             <li style="padding-bottom: 0.5em;">Content – Choose at least four works that you would like to include in your website/portfolio. More is fine, but focus on quality over quantity. Include an image of each and note what kind of documentation you have (image, video, text, sound recording, etc).</li>
+          </ol>
+        </div>
+
+      <!--
+        <h4 id="p1p2">PART 2: DESIGN CONCEPT AND SITEMAP (DUE 10/10)</h4><br>
+        <div id="p1p2-content" style='display:none'>
+          
+          <p>Please add the following two pieces to your design document. This can be a digital file, or you can print it out.</p>
+          <ol>
             <li style="padding-bottom: 0.5em;">Concept (1-2 paragraphs) – Who is your target audience? What do you hope to convey about yourself and your work with this site? What will be the key elements and concepts behind the experience of your site? How will you leverage the medium of the web?</li>
             <li>Sitemap – A diagram of the pages of your site and the links between them.</li>
           </ol>
           <br>
         </div>
 
-        <h4 id="p1p2">PART 2: WIREFRAMES AND MOCKUPS (DUE 4/20)</h4><br>
-        <div id="p1p2-content" style='display:none'>
+        <h4 id="p1p3">PART 3: WIREFRAMES AND MOCKUPS (DUE 10/12)</h4><br>
+        <div id="p1p3-content" style='display:none'>
           For Thursday, we will be completing the design document with the final two parts – wireframes and mockups. Please bring hard copies to class, be prepared to discuss.
           <ol>
             <li style="padding-bottom: 0.5em;">Wireframes – Make diagrams showing the structure and functionality of the pages of your website. Include your homepage and one of each other page <b>type</b>.</li>
@@ -184,8 +192,8 @@
           <br>
         </div>
         
-        <h4 id="p1p3">PART 3: FINAL PORTFOLIO/WEBSITE (DUE 5/2)</h4>
-        <div id="p1p3-content" style='display:none'>
+        <h4 id="p1p4">PART 4: FINAL PORTFOLIO/WEBSITE (DUE 10/24)</h4>
+        <div id="p1p4-content" style='display:none'>
           <p>The final part is to build the site you've design with HTML and CSS. I would suggest doing this in steps, something like this:</p>
           <ol>
             <li>Create an HTML file for each page, and add the basic HTML structure.</li>
