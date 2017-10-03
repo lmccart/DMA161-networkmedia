@@ -6,7 +6,6 @@ body {
   font-size: 15px;
 }
 
-
 .backstretch1 {
   width: 100vw;
   height: 400px;
@@ -316,6 +315,8 @@ td {
   background-repeat: repeat;  
   width: 100%;
   height: 500%;
+  background-size:contain;
+  background-repeat:repeat-y;
 }
 
 #projects h4 {

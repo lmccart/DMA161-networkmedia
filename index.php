@@ -90,12 +90,12 @@
   <script>
   $(window).ready(function() {
 
-    // changeBG();
-    // setInterval(changeBG, 5000);
-    // function changeBG() {
-    //   var ind = Math.floor(Math.random()*18);
-    //   $('#background').css('background', 'url("imgs/diagrams/'+ind+'.jpg")');
-    // }
+    changeBG();
+    setInterval(changeBG, 5000);
+    function changeBG() {
+      var ind = Math.floor(Math.random()*8);
+      $('#background').css('background-image', 'url("imgs/diagrams/'+ind+'.jpg")');
+    }
   });
   </script>
 </body>
