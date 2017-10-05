@@ -16,6 +16,14 @@
       <h2>WEEKLIES</h2>
       <p>Weeklies are due <b>before the start of class</b> on Thursday. Your index page should have a section with a link to each weekly. Weekly P/F grades are posted <a target="_blank" href="https://docs.google.com/spreadsheets/d/1KI-6mijcypeczlwRfitTRq2lbtJpA3hB1dGWXfkrv7U/edit?usp=sharing#gid=1091796845">here</a>, if you want to dispute a P/F you are responsible for notifying the TA within two weeks.</p>
       <section>
+
+        <h3 id="weekly2">WEEKLY 2 (DUE 10/12)</h3>
+        This week reflects on themes of network surveillance and identity online. While you are thinking about your portfolio/websites, consider how you would like to be seen. What do you want to highlight, what do you want to keep private?<br><br>
+        <ul>
+          <li>Read one of these: Joanne McNeil – <a href="http://www.joannemcneil.com/the-dream-must-be-continuous/">The Dream Must Be Continuous</a>, Sydette Harry – <a href="https://modelviewculture.com/pieces/everyone-watches-nobody-sees-how-black-women-disrupt-surveillance-theory">Everyone Watches, Nobody Sees: How Black Women Disrupt Surveillance Theory</a>, Ashe Dryden – <a href="https://modelviewculture.com/pieces/social-networking-as-peer-surveillance">Social Networking as Peer Surveillance</a>.<!--Kate Losse – <a href="https://modelviewculture.com/pieces/the-male-gazed">The Male Gazed</a>., Julian Dibbell – <a href="http://www.villagevoice.com/news/a-rape-in-cyberspace-6401665">A Rape in  Cyberspace</a>. --></li>
+          <li>Create a new HTML page to hold your second weekly response, and link to it from your index page. Write two <b>good</b> questions for discussion, reflecting on the themes of the articles.</li>
+        </ul>
+
         <h3 id="weekly1">WEEKLY 1 (DUE 10/5)</h3>
         <img src="debord.jpg">
         <ul>
@@ -25,13 +33,7 @@
           <li>First weekly response: Take an internet <a href="http://www.cddc.vt.edu/sionline/si/theory.html">dérive</a> through at least five links. Post the five links with a couple sentences that frame the journey by explaining the links relationship to each other.</li>
           <li>Place your index page and weekly page online and email a link to <a href='mailto:christinayglesias@gmail.com'>christinayglesias@gmail.com</a>.</li>
         </ul>
-        <!-- <h3 id="weekly2">WEEKLY 2 (DUE 4/18)</h3>
-        This week reflects on themes of network surveillance and identity online. While you are thinking about your portfolio/websites, consider how you would like to be seen. What do you want to highlight, what do you want to keep private?<br><br>
-        <ul>
-          <li>Read two out of four of these: Sarah Kessler – <a href="https://www.fastcompany.com/3019847/think-you-can-live-offline-without-being-tracked-heres-what-it-takes">Think You can Live Offline Without Being Tracked?</a>, Joanne McNeil – <a href="http://www.joannemcneil.com/the-dream-must-be-continuous/">The Dream Must Be Continuous</a>, Kate Losse – <a href="https://modelviewculture.com/pieces/the-male-gazed">The Male Gazed</a>, Julian Dibbell – <a href="http://www.villagevoice.com/news/a-rape-in-cyberspace-6401665">A Rape in  Cyberspace</a>.</li>
-          <li>Create a new HTML page to hold your second weekly response, and link to it from your index page. Write two <b>good</b> questions for discussion, reflecting on the themes of the articles.</li>
-        </ul>
-        <h3 id="weekly3">WEEKLY 3 (DUE 4/25)</h3>
+        <!-- <h3 id="weekly3">WEEKLY 3 (DUE 4/25)</h3>
         This week, as you design your portfolios or website, the readings are about internet aesthetics and alternatives. Consider these in contrast with Frank Chimero's essay from week 1.
         <ul>
           <li>Read Nick Douglas, <a href="http://vcu.sagepub.com/content/13/3/314.full.pdf+html">It’s Supposed to Look Like Shit: The Internet Ugly Aesthetic</a> and Olia Lialina, <a href="http://contemporary-home-computing.org/RUE/">Rich User Experience, UX and Desktopization of War</a>.</li>

@@ -314,7 +314,7 @@ td {
   z-index: -1; 
   background-repeat: repeat;  
   width: 100%;
-  height: 500%;
+  height: 200%;
   background-size:contain;
   background-repeat:repeat-y;
 }

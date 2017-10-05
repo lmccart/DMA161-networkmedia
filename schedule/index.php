@@ -46,7 +46,7 @@
             <td>Th 10/5</td>
             <td>
               DUE: <a href="<?php echo getRoot(); ?>weeklies/#weekly1">Weekly 1</a><br>
-              DUE: <a href="<?php echo getRoot(); ?>projects/#p1p2">Project 1, part 1 - Content and references</a><br>
+              DUE: <a href="<?php echo getRoot(); ?>projects/#p1p1">Project 1, part 1 - Content and references</a><br>
               Lecture: <a href="<?php echo getRoot(); ?>notes/03_CSS.pdf">CSS</a> and <a href="<?php echo getRoot(); ?>notes/03_CSS.pdf">User Experience</a><br>
               Workshop: Fanpage
             </td>

@@ -170,7 +170,6 @@
           </ol>
         </div>
 
-      <!--
         <h4 id="p1p2">PART 2: DESIGN CONCEPT AND SITEMAP (DUE 10/10)</h4><br>
         <div id="p1p2-content" style='display:none'>
           
@@ -181,6 +180,8 @@
           </ol>
           <br>
         </div>
+
+      <!--
 
         <h4 id="p1p3">PART 3: WIREFRAMES AND MOCKUPS (DUE 10/12)</h4><br>
         <div id="p1p3-content" style='display:none'>
@@ -218,6 +219,7 @@
         $(id).hide();
       });
       $(hash+'-content').show();
+      $(window).scrollTop(0);
     }
     $('h4').click(function() {
       var id = '#'+$(this).attr('id')+'-content';
