@@ -53,6 +53,7 @@
           <li><a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Introduction">MDN: Intro to HTML</a></li>
           <li><a href="http://learn.shayhowe.com/html-css/">Learn HTML &amp; CSS</a> - another great tutorial</li>
           <li><a href="http://learnlayout.com/">Learn CSS Layout</a></li>
+          <li><a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/">Guide to Flexbox</a></li>
         </ul>
       </section>
       

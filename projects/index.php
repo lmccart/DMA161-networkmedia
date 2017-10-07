@@ -160,7 +160,7 @@
       -->
         
         <h4 id="p1p1">PART 1: CONTENT AND REFERENCES (DUE 10/5)</h4><br>
-        <div id="p1p1-content" style='display:block'>
+        <div id="p1p1-content" style='display:none'>
 
           <p>Before you begin building anything, it is a good idea to first prepare a design document that outlines the goals of the site, the user experience, and the overall design. This document will guide you through the development process. We will begin by thinking about the content you want to include in your website, and examples of other websites you find inspiring. Please create a document that includes the following. This can be a digital file, or you can print it out.</p>
           
@@ -171,7 +171,7 @@
         </div>
 
         <h4 id="p1p2">PART 2: DESIGN CONCEPT AND SITEMAP (DUE 10/10)</h4><br>
-        <div id="p1p2-content" style='display:none'>
+        <div id="p1p2-content" style='display:block'>
           
           <p>Please add the following two pieces to your design document. This can be a digital file, or you can print it out.</p>
           <ol>
@@ -180,8 +180,6 @@
           </ol>
           <br>
         </div>
-
-      <!--
 
         <h4 id="p1p3">PART 3: WIREFRAMES AND MOCKUPS (DUE 10/12)</h4><br>
         <div id="p1p3-content" style='display:none'>
@@ -193,6 +191,8 @@
           <br>
         </div>
         
+      <!--
+
         <h4 id="p1p4">PART 4: FINAL PORTFOLIO/WEBSITE (DUE 10/24)</h4>
         <div id="p1p4-content" style='display:none'>
           <p>The final part is to build the site you've design with HTML and CSS. I would suggest doing this in steps, something like this:</p>

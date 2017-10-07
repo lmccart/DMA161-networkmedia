@@ -60,8 +60,8 @@
             <td>T 10/10</td>
             <td>
               DUE: <a href="<?php echo getRoot(); ?>projects/#p1p2">Project 1, part 2 - Design concept and sitemap</a><br>
-              Lecture: <a href="<?php echo getRoot(); ?>notes/06_layout.pdf">Wireframes, mockups, and layout</a><br>
-              Lecture: Online identity and surveillance<br>
+              Lecture: <a href="<?php echo getRoot(); ?>notes/05_surveillance.pdf">Online identity and surveillance</a><br>
+              Lecture: <a href="<?php echo getRoot(); ?>notes/06_layout.pdf">Wireframes, mockups, and layout</a> (<a href='<?php echo getRoot(); ?>notes/06_layout_code.zip'>code</a>)<br>
             </td>
           </tr>
           <tr class='spacer'></tr>
