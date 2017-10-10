@@ -17,6 +17,13 @@
       <h2>RESOURCES</h2>
       
       <section>
+        <h3 id="workshops">INSPIRATION</h3>
+        <ul>
+          <li><a href="https://docs.google.com/document/d/1RjSvcwFtY0kaF7MH8nA52w6k81DIC5mEN-RkSgOXtww/edit?usp=sharing">class aggregated links</a> - inspiring artist and designer sites for project 1</li>
+        </ul>
+      </section>
+
+      <section>
         <h3 id="tools">TOOLS</h3>
         <ul>
           <li><a href="https://www.google.com/chrome/browser/">Chrome</a> - You may use any browser you like but this one will be used for demos in class</li>
