@@ -19,7 +19,7 @@
       <section>
         <h3 id="workshops">INSPIRATION</h3>
         <ul>
-          <li><a href="https://docs.google.com/document/d/1RjSvcwFtY0kaF7MH8nA52w6k81DIC5mEN-RkSgOXtww/edit?usp=sharing">class aggregated links</a> - inspiring artist and designer sites for project 1</li>
+          <li><a href="https://docs.google.com/document/d/1RjSvcwFtY0kaF7MH8nA52w6k81DIC5mEN-RkSgOXtww/edit?usp=sharing">Class aggregated links</a> - inspiring artist and designer sites for project 1</li>
         </ul>
       </section>
 
