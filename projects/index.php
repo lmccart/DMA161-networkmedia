@@ -171,7 +171,7 @@
         </div>
 
         <h4 id="p1p2">PART 2: DESIGN CONCEPT AND SITEMAP (DUE 10/10)</h4><br>
-        <div id="p1p2-content" style='display:block'>
+        <div id="p1p2-content" style='display:none'>
           
           <p>Please add the following two pieces to your design document. This can be a digital file, or you can print it out.</p>
           <ol>
@@ -182,7 +182,7 @@
         </div>
 
         <h4 id="p1p3">PART 3: WIREFRAMES AND MOCKUPS (DUE 10/12)</h4><br>
-        <div id="p1p3-content" style='display:none'>
+        <div id="p1p3-content" style='display:block'>
           For Thursday, we will be completing the design document with the final two parts – wireframes and mockups. Please bring hard copies to class, be prepared to discuss.
           <ol>
             <li style="padding-bottom: 0.5em;">Wireframes – Make diagrams showing the structure and functionality of the pages of your website. Include your homepage and one of each other page <b>type</b>.</li>
@@ -191,8 +191,6 @@
           <br>
         </div>
         
-      <!--
-
         <h4 id="p1p4">PART 4: FINAL PORTFOLIO/WEBSITE (DUE 10/24)</h4>
         <div id="p1p4-content" style='display:none'>
           <p>The final part is to build the site you've design with HTML and CSS. I would suggest doing this in steps, something like this:</p>
@@ -206,7 +204,8 @@
           </ol>
 
           <p>The final version should have multiple pages and include at least four works. The navigation should be clear and the design should be engaging and coherent. Your site should communicate who you are and what you do to the audience that you outlined in the design document. At minimum, it should look correct at standard laptop and desktop scales. You will have three minutes to present your site to the class, followed by a few minutes of feedback and critique. In your presentation you will want to make clear the concept, functionality, and structure of the site, as well as where you could see taking it further in the future.</p>
-        </div> -->
+        </div>
+
       </section>
     </div>
   </div>
