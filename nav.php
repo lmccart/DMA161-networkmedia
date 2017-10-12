@@ -1,4 +1,5 @@
 
+
 <h1><a href="<?php echo getRoot(); ?>">NETWORK MEDIA</a></h1>
 
 <nav>
@@ -10,31 +11,32 @@
     <li><a href="<?php echo getRoot(); ?>resources/">Resources</a></li>
     <li><a target="_blank" href="https://docs.google.com/spreadsheets/d/1KI-6mijcypeczlwRfitTRq2lbtJpA3hB1dGWXfkrv7U/edit?usp=sharing">Attendance</a></li>
   </ul>
-<!-- 
-  <ul class="students">
-    <li><a href="http://classes.dma.ucla.edu/~alexmadrid5014/Index.html">Alex</a></li>
-    <li><a href="http://users.dma.ucla.edu/~allekbien/index.html">Allek</a></li>
-    <li><a href="http://users.dma.ucla.edu/~brtran6/">Briana</a></li>
-    <li><a href="http://users.dma.ucla.edu/~chellyjin/index.html">Chelly</a></li>
-    <li><a href="http://users.dma.ucla.edu/~cgautier/">Charlotte</a></li>
-    <li><a href="http://users.dma.ucla.edu/~hillarycleary/hillarycleary/">Hillary</a></li>
-    <li><a href="http://users.dma.ucla.edu/~jakebaylor/weekly1.html">Jake</a></li>
-    <li><a href="http://users.dma.ucla.edu/~janeeunjikim/">Jane</a></li>
-    <li><a href="http://users.dma.ucla.edu/~jasfar/index.html">Jason</a></li>
-    <li><a href="http://users.dma.ucla.edu/~chenj232/Network%20Media%20161/index.html">Jingjie</a></li>
-    <li><a href="http://users.dma.ucla.edu/~jlin57/works%20site/">Jessica L</a></li>
-    <li><a href="http://users.dma.ucla.edu/~jessicarsv/index.html">Jessica V</a></li>
-    <li><a href="http://users.dma.ucla.edu/~jldavies/">John</a></li>
-    <li><a href="http://users.dma.ucla.edu/~jords4000/">Jordana</a></li>
-    <li><a href="http://users.dma.ucla.edu/~lkris/index.html">Lilyan</a></li>
-    <li><a href="http://users.dma.ucla.edu/~boscole/">Mac</a></li>
-    <li><a href="https://users.dma.ucla.edu/~agzaro/Index.html">Rong</a></li>
-    <li><a href="http://users.dma.ucla.edu/~rjchang/index.html">Rosalind</a></li>
-    <li><a href="http://users.dma.ucla.edu/~ryanthomas95/">Ryan</a></li>
-    <li><a href="http://users.dma.ucla.edu/~sstaabgulben/">Sofia</a></li>
-    <li><a href="http://users.dma.ucla.edu/~pfarber/">Palmo</a></li>
-    <li><a href="http://users.dma.ucla.edu/~vitanewstetter/index.html">Vita</a></li>
-    <li><a href="http://users.dma.ucla.edu/~zcxrilkean/">Zichao</a></li>
-  </ul> -->
+<ul class="students">
+    <li><a href="http://users.dma.ucla.edu/~raggarwal1/">Rishabh</a></li>
+<li><a href="http://users.dma.ucla.edu/~joaquinbarlow/demo/">Joaquin</a></li>
+
+    <li><a href="http://users.dma.ucla.edu/~talie/talie_site/">Talie</a></li>
+    <li><a href="http://users.dma.ucla.edu/~bbblue44/bella's%20website/">Isabella</a></li>
+    <li><a href="http://users.dma.ucla.edu/~ncooke/demo/">Nicole</a></li>
+    <li><a href="http://users.dma.ucla.edu/~emilyliisaeck/Network%20Media/site/">Emi</a></li>
+<li><a href="http://users.dma.ucla.edu/~winkenham/Anran.html">Ariana</a></li>
+    <li><a href="http://users.dma.ucla.edu/~zoeaingram/">Zoe</a></li>
+    <li><a href="http://users.design.ucla.edu/~peterjuhaoyu/">Peter</a></li>
+    <li><a href="http://users.design.ucla.edu/~kimtiffany95/Weeklies/weeklies.html">Tae</a></li>
+    <li><a href="http://users.dma.ucla.edu/~linreginald/">Reggie</a></li>
+    <li><a href="http://users.dma.ucla.edu/~mm6568/Weeklies/">Max</a></li>
+    <li><a href="http://users.dma.ucla.edu/~natemohler/">Nate</a></li>
+    <li><a href="http://users.design.ucla.edu/~brandonpon/">Brandon</a></li>
+    <li><a href="http://users.dma.ucla.edu/~harryseo/Demo/">Harry</a></li>
+    <li><a href="http://users.design.ucla.edu/~tuangt/project1/">Tuang</a></li>
+    <li><a href="http://users.dma.ucla.edu/~yournamehere0/">Aaron</a></li>
+    <li><a href="http://users.dma.ucla.edu/~tyleryin/161/">Tyler</a></li>
+    <li><a href="http://users.design.ucla.edu/~annieyu/networkmedia/">Annie</a></li>
+    <li><a href="http://users.dma.ucla.edu/~wuyuefaith/">Faith</a></li>
+    <li><a href="http://users.dma.ucla.edu/~yufanyi/FanyiMainPage.html">Fanyi</a></li>
+
+  </ul>
+    
+
     
 </nav>
