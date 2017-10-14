@@ -180,7 +180,7 @@
             <td>
               DUE: <a href="<?php echo getRoot(); ?>weeklies/#weekly7">Weekly 7</a><br>
               Lecture: <a href="<?php echo getRoot(); ?>notes/11_crowdsourcing.pdf">Crowdsourcing</a><br>
-              Christina lecture
+              Who cares pecha kuchas
             </td>
           </tr>
           <tr class='spacer'></tr>
