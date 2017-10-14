@@ -220,7 +220,7 @@
             <td>Th 11/30</td>
             <td>
               DUE: <a href="<?php echo getRoot(); ?>weeklies/#weekly9">Weekly 8</a><br>
-              Workshop: fake news (<a href='http://davidleonard.tv/'>David Leonard</a>)
+              Workshop: fake news (<a href='http://davidleonard.tv/'>David Leonard</a>) ??
             </td>
           </tr>
           <tr class='spacer'></tr>
