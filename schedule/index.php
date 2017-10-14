@@ -7,8 +7,8 @@
 <head>
 <?php include("../head.php"); ?>
 </head>
-<body class='animated2'>
-  <div id="background" class='backstretch2 animated'></div>
+<body>
+  <div id="background" class='backstretch5 animated'></div>
   <div class="container">
     <?php include("../nav.php"); ?>
     
@@ -35,7 +35,7 @@
             <td>T 10/3</td>
             <td>
               DUE: <a href="<?php echo getRoot(); ?>resources/#tools">Install software tools</a><br>
-              Lightning Lecture: <a href='http://www.suryamattu.com/'>Surya Mattu</a><br>
+              ⚡ Lecture: <a href='http://www.suryamattu.com/'>Surya Mattu</a><br>
               Lecture: <a href="<?php echo getRoot(); ?>notes/02_HTML.pdf">HTML</a> (<a href="<?php echo getRoot(); ?>notes/02_HTML_code.zip">code</a>)<br>
               Workshop: index.html
             </td>
@@ -71,7 +71,7 @@
             <td>
               DUE: <a href="<?php echo getRoot(); ?>weeklies/#weekly2">Weekly 2</a><br>
               DUE: <a href="<?php echo getRoot(); ?>projects/#p1p3">Project 1, part 3 - Wireframes and mockups</a><br>
-              Lightning Lecture: <a href='https://www.laurenvalley.com'>Lauren Valley</a><br>
+              ⚡ Lecture: <a href='https://www.laurenvalley.com'>Lauren Valley</a><br>
               Studio / individual meetings
             </td>
           </tr>
@@ -104,7 +104,7 @@
             <td>WEEK 4</td>
             <td>T 10/24</td>
             <td>
-              DUE: <a href="<?php echo getRoot(); ?>projects/#p1p4">Project 1 - Portfolio</a><br>
+              ❗ DUE: <a href="<?php echo getRoot(); ?>projects/#p1p4">Project 1 - Portfolio</a><br>
               Review Project 1<br>
               <span style='background:orange'>DMA Lecture: <a href='http://dma.ucla.edu/events/calendar/?ID=1037'>Yung Jake</a></span><br>
             </td>
@@ -115,6 +115,7 @@
             <td>Th 10/26</td>
             <td>
               DUE: <a href="<?php echo getRoot(); ?>weeklies/#weekly4">Weekly 4</a><br>
+              Christina lecture and other fun
             </td>
           </tr>
           <tr class='spacer'></tr>
@@ -124,6 +125,8 @@
             <td>WEEK 5</td>
             <td>T 10/31</td>
             <td>
+              Lecture: <a href="<?php echo getRoot(); ?>notes/08_geolocation.pdf">Geolocation and mobile</a><br>
+              Workshop: <a href="../resources/p5/">p5.js basics</a> (<a href="<?php echo getRoot(); ?>notes/08_p5_code.zip">code</a>)
             </td>
           </tr>
           <tr class='spacer'></tr>
@@ -131,7 +134,10 @@
             <td></td>
             <td>Th 11/2</td>
             <td>
-              DUE: <a href="<?php echo getRoot(); ?>weeklies/#weekly5">Weekly 5</a>
+              DUE: <a href="<?php echo getRoot(); ?>weeklies/#weekly5">Weekly 5</a><br>
+              DUE: <a href="<?php echo getRoot(); ?>projects/#p2p1">Project 2, part 1 - Concept and sketches</a><br>
+              Lecture: p5.js, interactivity and logic (<a href="<?php echo getRoot(); ?>notes/09_p5_code_2.zip">code</a>)<br>
+              Individual meetings / studio
             </td>
           </tr>
           <tr class='spacer'></tr>
@@ -141,7 +147,9 @@
             <td>WEEK 6</td>
             <td>T 11/7</td>
             <td>
-              Lightning Lecture: <a href='http://blog.jennnkagan.com/'>Jen Kagan</a><br>
+              ⚡ Lecture: <a href='http://blog.jennnkagan.com/'>Jen Kagan</a><br>
+              Lecture: p5.js, media (<a href="<?php echo getRoot(); ?>notes/10_p5_code_3.zip">code</a>)<br>
+              Studio<br>
               <span style='background:orange'>DMA Lecture: <a href='http://dma.ucla.edu/events/calendar/?ID=1038'>Angela Washko</a></span>
             </td>
           </tr>
@@ -150,7 +158,8 @@
             <td></td>
             <td>Th 11/9</td>
             <td>
-              DUE: <a href="<?php echo getRoot(); ?>weeklies/#weekly6">Weekly 6</a>
+              DUE: <a href="<?php echo getRoot(); ?>weeklies/#weekly6">Weekly 6</a><br>
+              Studio
             </td>
           </tr>
           <tr class='spacer'></tr>
@@ -160,7 +169,8 @@
             <td>WEEK 7</td>
             <td>T 11/14</td>
             <td>
-              DUE: <a href="<?php echo getRoot(); ?>projects/#p2p2">Project 2 - Mobile</a><br>
+              ❗ DUE: <a href="<?php echo getRoot(); ?>projects/#p2p2">Project 2 - Location</a><br>
+              Review Project 2
             </td>
           </tr>
           <tr class='spacer'></tr>
@@ -168,7 +178,9 @@
             <td></td>
             <td>Th 11/16</td>
             <td>
-              DUE: <a href="<?php echo getRoot(); ?>weeklies/#weekly7">Weekly 7</a>
+              DUE: <a href="<?php echo getRoot(); ?>weeklies/#weekly7">Weekly 7</a><br>
+              Lecture: <a href="<?php echo getRoot(); ?>notes/11_crowdsourcing.pdf">Crowdsourcing</a><br>
+              Christina lecture
             </td>
           </tr>
           <tr class='spacer'></tr>
@@ -178,6 +190,8 @@
             <td>WEEK 8</td>
             <td>T 11/21</td>
             <td>
+              DUE: <a href="<?php echo getRoot(); ?>projects/#p3p1">Project 3, part 1 - Concept and sketches</a><br>
+              Individual meetings / studio
             </td>
           </tr>
           <tr class='spacer'></tr>
@@ -195,6 +209,9 @@
             <td>WEEK 9</td>
             <td>T 11/28</td>
             <td>
+            DUE: <a href="<?php echo getRoot(); ?>projects/#p3p2">Project 3, part 2 - Collect</a><br>
+            Lecture: working with data</a> (<a href="<?php echo getRoot(); ?>notes/12_data_code.zip">code</a>)<br>
+            Studio
             </td>
           </tr>
           <tr class='spacer'></tr>
@@ -202,7 +219,8 @@
             <td></td>
             <td>Th 11/30</td>
             <td>
-              DUE: <a href="<?php echo getRoot(); ?>weeklies/#weekly9">Weekly 9</a><br>
+              DUE: <a href="<?php echo getRoot(); ?>weeklies/#weekly9">Weekly 8</a><br>
+              Workshop: fake news (<a href='http://davidleonard.tv/'>David Leonard</a>)
             </td>
           </tr>
           <tr class='spacer'></tr>
@@ -212,6 +230,8 @@
             <td>WEEK 10</td>
             <td>T 12/5</td>
             <td>
+              Lecture: <a href="<?php echo getRoot(); ?>notes/13_social_media.pdf">Social media</a><br>
+              Studio
             </td>
           </tr>
           <tr class='spacer'></tr>
@@ -219,8 +239,7 @@
             <td></td>
             <td>Th 12/7</td>
             <td>
-              DUE: <a href="<?php echo getRoot(); ?>weeklies/#weekly10">Weekly 10</a><br>
-              DUE: <a href="<?php echo getRoot(); ?>projects/#p3p3">Project 3 - Crowdsourced</a><br>
+              ❗DUE: <a href="<?php echo getRoot(); ?>projects/#p3p3">Project 3 - Crowdsourced</a><br>
               Review project 3
             </td>
           </tr>

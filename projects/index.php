@@ -78,56 +78,52 @@
       </section>
 
       <section>
-      
 
         <h3 id="project2">PROJECT 2</h3>
 
-        <p style="line-height:2em;">
-          <a style="color:orangered !important" href="geolocation-all">IN-CLASS REVIEW LINKS</a><br>
-          <a style="color:orangered !important" href="https://docs.google.com/forms/d/e/1FAIpQLScA9bZj-VJnowxygA0XeQ2QYDGpAH_T7k7nWG1oL0l2xpdsQw/viewform">IN-CLASS LINK SUBMISSION HERE</a><br>
-          <a style="color:orangered !important" href="geolocation-testing">IN-CLASS TESTING LINKS</a>
+        <p>
+          Your goal with this project is to create a <b>mobile</b> artwork that <b>changes your experience</b> of a <b>specific location</b>.
+          <br><br>
+          Specific location – This could be on campus, in Los Angeles, or anywhere in the world. It must be a place corresponding to latitude and longitude coordinates. What is the significance of this place you have chosen?
+          <br><br>
+          Changes your experience – How does it change your experience of the place? Does it alter, augment, obscure, disorient, enhance, recontextualize...? To what end / why?
+          <br><br>
+          Mobile – Why is this a mobile experience? What does the use of mobile allow you to do? You must make use of a specific mobile functionality (GPS, accelerometor, touch interaction, camera, or something else approved by Lauren). I recommend focusing on one.
         </p>
-        
-        <p>In this project you will create a site-specific location-based artwork on UCLA campus. Create an experience that occurs over three different locations of your choosing. You will design and build a mobile application using p5.js with four different views - one for each of the three locations, and a fourth for the "in-between" state. You will be provided with a project template that allows you to specify the lat/lon of your three locations, automatically detecting which location you are in, and displaying the corresponding view.<br><br>If you would like to create an experience that does not follow this format, that is ok, but you must get approval in class on 5/9.</p>
 
-        <h4 id="p2p1">PART 1: CONCEPT (DUE 5/9)</h4><br>
+        <h4 id="p2p1">PART 1: CONCEPT (DUE 11/2)</h4><br>
         <div id="p2p1-content" style='display:none;'>
           <ol>
-            <li>Walk around UCLA campus with your notebook and your phone. Open <a href="https://alpha.editor.p5js.org/full/HJOquTwgZ">this LocateMe app</a> <a href="https://alpha.editor.p5js.org/lmccart/sketches/HJOquTwgZ">(code view)</a>. Note interesting locations, take a photo and record the lat/lon at each location. Start thinking about what you might like to see at each location, and a general concept for the piece.</li>
-            <li>Flesh out the concept for your piece. What is the goal of this experience? How will the three locations and views relate to each other? Download this <a href="geolocation-template.pdf">project template</a>, and write a one paragraph (minimum 4 sentences) description of the general concept and the overall experience you hope to create.</li>
-            <li>Create a mockup design for each of your three views (locations) and one for the in between state.</li>
-            <li>Bring a printed copy of the completed template to class on Tuesday.</li>
+            <li>Take a walk, drive, journey and identify your place. This <a href="https://alpha.editor.p5js.org/full/HJOquTwgZ">LocateMe app</a> <a href="https://alpha.editor.p5js.org/lmccart/sketches/HJOquTwgZ">(code view)</a> can help you identify your current lat/lon, or you can look up a location's position on google maps.</li>
+            <li>Determine how your piece will change your experience of this place. Download this <a href="geolocation-template.pdf">project template</a>, and write a one paragraph (minimum 4 sentences) description of the concept, identifying the mobile functionality you will make use of.</li>
+            <li>Create a mockup design for each different state or your piece.</li>
+            <li>Bring a printed copy of the completed template to class on 11/2.</li>
           </ol>
+          <br>
         </div>
 
-        <h4 id="p2p2">PART 2: BUILD (DUE 5/23)</h4><br>
+        <h4 id="p2p2">PART 2: BUILD (DUE 11/14)</h4><br>
         <div id="p2p2-content" style='display:none;'>
-          <ol>
-            <li>Open <a target="_blank" href="https://alpha.editor.p5js.org/lmccart/sketches/Hygq-S5e-"">this GEOLOCATION app template</a>. Make sure you are logged in. Click "Duplicate", rename to whatever you like, and click "Save".</li>
-            <li>Fill in the <code>locationXX()</code> and <code>changeLocation()</code> functions.</li>
-            <li>Set <code>var buttons = true/false</code> to toggle between testing with buttons and testing with gps. Or triple tap.</li>
-            <li>Click "Share" to get a link to view the fullscreen version. You can open this on your mobile device to test.</li>
-          </ol>
-          
-          <p>The final piece should have a clear concept that is communicated through a fully resolved and implemented design. It should work with both button press and gps trigger. It should look correct on a standard mobile device size. For the review, you will demonstrate your project in class using the buttons. Post a link to your project on your index page. Your project can either be uploaded directly to cyberduck, or you can post a link to the project in the web editor.</p>
+
+          <p>The final piece should have a clear concept that is communicated through a fully resolved and implemented design. It should look correct on a standard mobile device size. For the review, you will demonstrate your project in class so if it only works in one GPS location, create a way for us to view it in class. Post a link to your project on your index page. Your project can either be uploaded directly to cyberduck, or you can post a link to the project in the web editor.</p>
     
-          <p>Each of these four categories will be graded on a A(4) - F (0) scale. Outstanding or exceptional work will receive As, good work will receive Bs, sufficient work that does nothing more than meet requirements will receive Cs. The final grade will be an average of these four scores. </p>
+          <p>Each of these three categories will be graded on a A(4) - F (0) scale. Outstanding or exceptional work will receive As, good work will receive Bs, sufficient work that does nothing more than meet requirements will receive Cs. The final grade will be an average of these three scores. </p>
 
           <ul>
-            <li>demonstrated understanding of the material</li>
             <li>conceptually creativity</li>
             <li>aesthetic quality</li>
             <li>technical skill</li>
           </ul>
         </div>
-      </section> -->
+      </section>
       
+       -->
       <section>
 
         <h3 id="project1">PROJECT 1</h3>
         <p>In this project you will be designing and developing an online portfolio or website that represents you. You will research and determine a site concept, create a design based on this, and finally built it with HTML and CSS. How do you want others to see you and your work? What do you want them to notice first? What do you want them to takeaway?</p>
 
-        <p>Each of these three categories will be graded on a A(4) - F (0) scale. Outstanding or exceptional work will receive As, good work will receive Bs, sufficient work that does nothing more than meet requirements will receive Cs. The final grade will be an average of these four scores. </p>
+        <p>Each of these three categories will be graded on a A(4) - F (0) scale. Outstanding or exceptional work will receive As, good work will receive Bs, sufficient work that does nothing more than meet requirements will receive Cs. The final grade will be an average of these three scores. </p>
 
         <ul>
           <li>conceptually creativity</li>
