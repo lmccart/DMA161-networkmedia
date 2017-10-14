@@ -136,28 +136,6 @@
         </ul>
 
         <br>
-        <!--
-        <h4 id="p1p0">WARMUP: FANPAGE (DUE 10/5)</h4><br>
-        <div id="p1p0-content" style='display:block;'>
-          <p>Even if we don't have a website, all of us (probably) have some presence online. It is spread across social media, data is collected from you with every like and transaction, for many online identities are no less real than those of the physical world, and the distinction is quickly becoming irrelevant.</p>
-          <p>You will be randomly assigned a partner. Your task for this part is to comb the Internet and find as many traces of them as you can. Think social media, comments on blogs or bulletin boards, photos on websites of organizations they're affiliated with. Once you have done this, create a "fanpage" for that person using HTML and CSS. You can use any media, text you find online, or things you learn about them. Remember a fanpage is celebratory. While this exercise is designed to explore a certain amount of discomfort with the way our data leaks online, nobody should feel hurt, embarrassed, or targeted. This is important.</p>
-          <p>This part is due in class on 4/13. Add a link to your fanpage on your index page.</p>
-          
-          <ul>
-            <li>Jen Agosta –> Tabatha Yelos -> Erica Young -> Jen Agosta</li>
-            <li>Maddie Avjean – Tiffany Taimoorazy</li>
-            <li>Matt Broking – Bob Su</li>
-            <li>Angaea – Ruth Shaffer</li>
-            <li>Tara Dilloughery – Elana Sasson </li>
-            <li>Matea Friend – Nina Romans</li>
-            <li>Alison Jeng – Greta Lorenz</li>
-            <li>Devin Johnson – Deanna Lam</li>
-            <li>Peter Ju – Miller Klitsner</li>
-            <li>Emily Kang – Erika Kehrwald</li>
-          </ul>
-          <br>
-        </div>
-      -->
         
         <h4 id="p1p1">PART 1: CONTENT AND REFERENCES (DUE 10/5)</h4><br>
         <div id="p1p1-content" style='display:none'>
@@ -182,7 +160,7 @@
         </div>
 
         <h4 id="p1p3">PART 3: WIREFRAMES AND MOCKUPS (DUE 10/12)</h4><br>
-        <div id="p1p3-content" style='display:block'>
+        <div id="p1p3-content" style='display:none'>
           For Thursday, we will be completing the design document with the final two parts – wireframes and mockups. Please bring hard copies to class, be prepared to discuss.
           <ol>
             <li style="padding-bottom: 0.5em;">Wireframes – Make diagrams showing the structure and functionality of the pages of your website. Include your homepage and one of each other page <b>type</b>.</li>
@@ -192,7 +170,7 @@
         </div>
         
         <h4 id="p1p4">PART 4: FINAL PORTFOLIO/WEBSITE (DUE 10/24)</h4>
-        <div id="p1p4-content" style='display:none'>
+        <div id="p1p4-content" style='display:block'>
           <p>The final part is to build the site you've design with HTML and CSS. I would suggest doing this in steps, something like this:</p>
           <ol>
             <li>Create an HTML file for each page, and add the basic HTML structure.</li>

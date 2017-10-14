@@ -16,7 +16,7 @@
       <h2>WEEKLIES</h2>
       <p>Weeklies are due <b>before the start of class</b> on Thursday. Your index page should have a section with a link to each weekly. Weekly P/F grades are posted <a target="_blank" href="https://docs.google.com/spreadsheets/d/1KI-6mijcypeczlwRfitTRq2lbtJpA3hB1dGWXfkrv7U/edit?usp=sharing#gid=1091796845">here</a>, if you want to dispute a P/F you are responsible for notifying the TA within two weeks.</p>
       <section>
-        <h3 id="weekly3">WEEKLY 3 (DUE 4/25)</h3>
+        <h3 id="weekly3">WEEKLY 3 (DUE 10/19)</h3>
         This week, as you design your portfolios or website, the readings are about internet aesthetics and alternatives. Consider these in contrast with Frank Chimero's essay from week 1.
         <ul>
           <li>Read Nick Douglas, <a href="http://vcu.sagepub.com/content/13/3/314.full.pdf+html">It’s Supposed to Look Like Shit: The Internet Ugly Aesthetic</a> and Olia Lialina, <a href="http://contemporary-home-computing.org/RUE/">Rich User Experience, UX and Desktopization of War</a>.</li>
@@ -39,7 +39,7 @@
           <li>First weekly response: Take an internet <a href="http://www.cddc.vt.edu/sionline/si/theory.html">dérive</a> through at least five links. Post the five links with a couple sentences that frame the journey by explaining the links relationship to each other.</li>
           <li>Place your index page and weekly page online and email a link to <a href='mailto:christinayglesias@gmail.com'>christinayglesias@gmail.com</a>.</li>
         </ul>
-        <!-- <h3 id="weekly4">WEEKLY 4 (DUE 5/2)</h3>
+        <!-- <h3 id="weekly4">WEEKLY 4 (DUE 10/26)</h3>
         g̶̡l̵̸͟í̷͝t̕͠c͢h̛̕<br><br>
         <ul>
           <li>Read FastCo, <a href="https://www.fastcompany.com/3034296/inside-the-bizarre-phenomenon-known-as-glitch-art">Glitch Art</a>.</li>

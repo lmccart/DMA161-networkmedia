@@ -84,7 +84,6 @@
             <td>T 10/17</td>
             <td>
               DUE: Project 1 in progress<br>
-              Lecture: jQuery intro (<a href="<?php echo getRoot(); ?>notes/07_jQuery_code.zip">code</a>)<br>
               Studio
             </td>
           </tr>
@@ -94,8 +93,8 @@
             <td>Th 10/19</td>
             <td>
               DUE: <a href="<?php echo getRoot(); ?>weeklies/#weekly3">Weekly 3</a><br>
-              DUE: Project 1 in progress<br>
-              Studio<br>
+              Lecture: jQuery intro (<a href="<?php echo getRoot(); ?>notes/07_jQuery_code.zip">code</a>)<br>
+              Studio
             </td>
           </tr>
           <tr class='spacer'></tr>
