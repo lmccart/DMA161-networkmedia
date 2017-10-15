@@ -20,7 +20,7 @@
         UCLA Broad Art Center 4240
         <br><br>
         Professor: <a href="mailto:lmccart@ucla.edu">Lauren McCarthy</a>
-        <br>(office hour: Th 12-1pm, Broad 3246)
+        <br>(office hour: Th 1-2pm, Broad 3246)
         <br><br>
         TA: <a href="mailto:christinayglesias@gmail.com">Christina Yglesias</a>
         <br>(office hour: T 4:50-5:50pm, Broad 4240)<br>
