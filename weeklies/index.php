@@ -16,6 +16,16 @@
       <h2>WEEKLIES</h2>
       <p>Weeklies are due <b>before the start of class</b> on Thursday. Your index page should have a section with a link to each weekly. Weekly P/F grades are posted <a target="_blank" href="https://docs.google.com/spreadsheets/d/1KI-6mijcypeczlwRfitTRq2lbtJpA3hB1dGWXfkrv7U/edit?usp=sharing#gid=1091796845">here</a>, if you want to dispute a P/F you are responsible for notifying the TA within two weeks.</p>
       <section>
+
+        <h3 id="weekly5">WEEKLY 5 (DUE 11/2)</h3>
+        Networks of LA<br><br>
+        <img src="network-guide.jpg">
+        <ul>
+          <li>Read/skim Ingrid Burrington, <a href="http://www.mhpbooks.com/books/networks-of-new-york/">Networks of New York</a>.</li>
+          <li>Create your own "infrastucture tour of LA". That is, go out into the city and collect at least three images of physical network infrastructure.</li>
+          <li>Post the three images and a sentence or two about each explaining what it is and why it's important as your fifth weekly response, and link to it from your index page.</li>
+        </ul>
+
         <h3 id="weekly4">WEEKLY 4 (DUE 10/26)</h3>
         g̶̡l̵̸͟í̷͝t̕͠c͢h̛̕<br><br>
         <ul>
@@ -48,16 +58,8 @@
           <li>First weekly response: Take an internet <a href="http://www.cddc.vt.edu/sionline/si/theory.html">dérive</a> through at least five links. Post the five links with a couple sentences that frame the journey by explaining the links relationship to each other.</li>
           <li>Place your index page and weekly page online and email a link to <a href='mailto:christinayglesias@gmail.com'>christinayglesias@gmail.com</a>.</li>
         </ul>
-        <!-- 
-        <h3 id="weekly5">WEEKLY 5 (DUE 5/9)</h3>
-        Networks of LA<br><br>
-        <img src="network-guide.jpg">
-        <ul>
-          <li>Read/skim Ingrid Burrington, <a href="http://www.mhpbooks.com/books/networks-of-new-york/">Networks of New York</a>.</li>
-          <li>Create your own "infrastucture tour of LA". That is, go out into the city and collect at least three images of physical network infrastructure.</li>
-          <li>Post the three images and a sentence or two about each explaining what it is and why it's important as your fifth weekly response, and link to it from your index page.</li>
-        </ul>
         
+        <!-- 
         <h3 id="weekly6">WEEKLY 6 (DUE 5/16)</h3>
         <p>Sign up for Amazon Mechanical Turk. No need to post anything online. We'll be using this in a future class.<br>Go to <a href="https://www.mturk.com/mturk/welcome">www.mturk.com</a> and click Sign in as <b>Worker</b> at the top right.<br>Click all the way through until you see the message "Your registration has been received."</p>
         <img src="signin.png" style="width:300px;">
