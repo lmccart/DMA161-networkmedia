@@ -77,6 +77,7 @@
 
       </section>
 
+       -->
       <section>
 
         <h3 id="project2">PROJECT 2</h3>
@@ -92,7 +93,7 @@
         </p>
 
         <h4 id="p2p1">PART 1: CONCEPT (DUE 11/2)</h4><br>
-        <div id="p2p1-content" style='display:none;'>
+        <div id="p2p1-content" style='display:block;'>
           <ol>
             <li>Take a walk, drive, journey and identify your place. This <a href="https://alpha.editor.p5js.org/full/HJOquTwgZ">LocateMe app</a> <a href="https://alpha.editor.p5js.org/lmccart/sketches/HJOquTwgZ">(code view)</a> can help you identify your current lat/lon, or you can look up a location's position on google maps.</li>
             <li>Determine how your piece will change your experience of this place. Download this <a href="geolocation-template.pdf">project template</a>, and write a one paragraph (minimum 4 sentences) description of the concept, identifying the mobile functionality you will make use of.</li>
@@ -117,7 +118,6 @@
         </div>
       </section>
       
-       -->
       <section>
 
         <h3 id="project1">PROJECT 1</h3>
@@ -166,7 +166,7 @@
         </div>
         
         <h4 id="p1p4">PART 4: FINAL PORTFOLIO/WEBSITE (DUE 10/24)</h4>
-        <div id="p1p4-content" style='display:block'>
+        <div id="p1p4-content" style='display:none'>
           <p>The final part is to build the site you've design with HTML and CSS. I would suggest doing this in steps, something like this:</p>
           <ol>
             <li>Create an HTML file for each page, and add the basic HTML structure.</li>
