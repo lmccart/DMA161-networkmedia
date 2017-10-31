@@ -288,3 +288,50 @@ pre {
   }
   
 }
+
+
+@media screen and (max-width: 1600px) {
+  body {
+    margin: 2em;
+  }
+
+  h1 {
+    width: 100%;
+    text-align: center;
+  }
+
+  #links li {
+   transform: rotate(0) !important;
+   display: inline-block;
+   margin-left: 1em;
+  }
+
+  #links {
+    text-align: center;
+    width: 95%;
+  }
+
+  nav {
+    width: 100%;
+    left: 0;
+    top: 5em;
+  }
+  .students {
+
+    margin-top: 1em;
+    text-align: center;
+  }
+
+  .students a{
+    color: red;
+  }
+  .students li {
+
+    margin: 0 !important;
+  }
+
+  .right {
+    margin: 0;
+    margin-top: 10em;
+  }
+}
