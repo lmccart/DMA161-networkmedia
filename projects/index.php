@@ -96,7 +96,7 @@
         <div id="p2p1-content" style='display:block;'>
           <ol>
             <li>Take a walk, drive, journey and identify your place. This <a href="https://alpha.editor.p5js.org/full/HJOquTwgZ">LocateMe app</a> <a href="https://alpha.editor.p5js.org/lmccart/sketches/HJOquTwgZ">(code view)</a> can help you identify your current lat/lon, or you can look up a location's position on google maps.</li>
-            <li>Determine how your piece will change your experience of this place. Download this <a href="geolocation-template.pdf">project template</a>, and write a one paragraph (minimum 4 sentences) description of the concept, identifying the mobile functionality you will make use of.</li>
+            <li>Determine how your piece will change your experience of this place. Download this <a href="location-template.pdf">project template</a>, and write a one paragraph (minimum 4 sentences) description of the concept, identifying the mobile functionality you will make use of.</li>
             <li>Create a mockup design for each different state or your piece.</li>
             <li>Bring a printed copy of the completed template to class on 11/2.</li>
           </ol>
