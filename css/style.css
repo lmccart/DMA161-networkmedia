@@ -333,5 +333,6 @@ pre {
   .right {
     margin: 0;
     margin-top: 10em;
+    width: 100%;
   }
 }
