@@ -81,6 +81,20 @@ second()</code></pre>
           <li><a href="https://www.amazon.com/Make-Interactive-Graphics-JavaScript-Processing/dp/1457186772">Getting Started with p5.js</a> - by Lauren McCarthy, Casey Reas, and Ben Fry, O'Reilly 2016</li>
           <li><a href="https://www.kadenze.com/courses/introduction-to-programming-for-the-visual-arts-with-p5-js/info">Intro to programming for the visual arts with p5.js</a> - online class from kadenze, free with sign up</li>
         </ul>
+        <br><br>
+
+        <h2>MOBILE</h2>
+        <ul>
+          <li><a href="https://alpha.editor.p5js.org/full/HygTHBL0b">01_rotation</a> <a href="https://alpha.editor.p5js.org/lmccart/sketches/HygTHBL0b">(code)</a></li>
+          <li><a href="https://alpha.editor.p5js.org/full/SyVx8rLCb">02_rotation_box</a> <a href="https://alpha.editor.p5js.org/lmccart/sketches/SyVx8rLCb">(code)</a></li>
+          <li><a href="https://alpha.editor.p5js.org/full/HJWALBL0-">03_acceleration</a> <a href="https://alpha.editor.p5js.org/lmccart/sketches/HJWALBL0-">(code)</a></li>
+          <li><a href="https://alpha.editor.p5js.org/full/Sk4ZPS80W">04_acceleration_ball</a> <a href="https://alpha.editor.p5js.org/lmccart/sketches/Sk4ZPS80W">(code)</a></li>
+          <li><a href="https://alpha.editor.p5js.org/full/rJuXPHUA-">05_deviceShaken</a> <a href="https://alpha.editor.p5js.org/lmccart/sketches/rJuXPHUA-">(code)</a></li>
+          <li><a href="https://alpha.editor.p5js.org/full/rJJUvSUA-">06_deviceMoved</a> <a href="https://alpha.editor.p5js.org/lmccart/sketches/rJJUvSUA-">(code)</a></li>
+          <li><a href="https://alpha.editor.p5js.org/full/SkUvwrU0Z">07_deviceTurned</a> <a href="https://alpha.editor.p5js.org/lmccart/sketches/SkUvwrU0Z">(code)</a></li>
+          <li><a href="https://alpha.editor.p5js.org/full/B1A5wSICb">08_geolocation_getCurrentPosition</a> <a href="https://alpha.editor.p5js.org/lmccart/sketches/B1A5wSICb">(code)</a></li>
+          <li><a href="https://alpha.editor.p5js.org/full/SkKRwSL0W">09_geolocation_watchPosition</a> <a href="https://alpha.editor.p5js.org/lmccart/sketches/SkKRwSL0W">(code)</a></li>
+        </ul>
         
       </section>
 
