@@ -276,7 +276,7 @@ pre {
   line-height: 1.45em;
 }
 
-@media screen and (min-width: 47.5em ) {
+@media screen and (min-width: 801px ) {
   .left {
     width: 10em;
   }

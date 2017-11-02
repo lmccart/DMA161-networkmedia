@@ -87,7 +87,7 @@
       </section>
     </div>
   </div>
-  <script>
+<!--   <script>
   $(window).ready(function() {
 
     changeBG();
@@ -97,6 +97,6 @@
       $('#background').css('background-image', 'url("imgs/diagrams/'+ind+'.jpg")');
     }
   });
-  </script>
+  </script> -->
 </body>
 </html>
