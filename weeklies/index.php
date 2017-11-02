@@ -17,6 +17,17 @@
       <p>Weeklies are due <b>before the start of class</b> on Thursday. Your index page should have a section with a link to each weekly. Weekly P/F grades are posted <a target="_blank" href="https://docs.google.com/spreadsheets/d/1KI-6mijcypeczlwRfitTRq2lbtJpA3hB1dGWXfkrv7U/edit?usp=sharing#gid=1091796845">here</a>, if you want to dispute a P/F you are responsible for notifying the TA within two weeks.</p>
       <section>
 
+        <h3 id="weekly6">WEEKLY 6 (DUE 11/9)</h3>
+
+        Remote Network<br>
+
+        <ul>
+          <li>Read Antonio García Martínez, <a href="https://www.wired.com/2017/07/inside-cubas-diy-internet-revolution/">Inside Cuba's DIY Internet Revolution</a>.</li>
+          <li>Post a one paragraph response as your sixth weekly response, and link to it from your index page.</li>
+          <li>Sign up for Amazon Mechanical Turk. We'll be using this in a future class.<br>Go to <a href="https://www.mturk.com/mturk/welcome">www.mturk.com</a> and click Sign in as <b>Worker</b> at the top right.<br>Click all the way through until you see the message "Your registration has been received."<br>You may get rejected without explanation. This is ok.</li>
+        </ul>
+        <img src="signin.png" style="width:300px;">
+
         <h3 id="weekly5">WEEKLY 5 (DUE 11/2)</h3>
         Networks of LA<br><br>
         <img src="network-guide.jpg">
@@ -60,9 +71,7 @@
         </ul>
         
         <!-- 
-        <h3 id="weekly6">WEEKLY 6 (DUE 5/16)</h3>
-        <p>Sign up for Amazon Mechanical Turk. No need to post anything online. We'll be using this in a future class.<br>Go to <a href="https://www.mturk.com/mturk/welcome">www.mturk.com</a> and click Sign in as <b>Worker</b> at the top right.<br>Click all the way through until you see the message "Your registration has been received."</p>
-        <img src="signin.png" style="width:300px;">
+
 
         <h3 id="weekly7">WEEKLY 7 (DUE 5/23)</h3>
         Deep Surfing<br><br>
