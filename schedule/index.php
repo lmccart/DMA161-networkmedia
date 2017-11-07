@@ -179,8 +179,8 @@
             <td>Th 11/16</td>
             <td>
               DUE: <a href="<?php echo getRoot(); ?>weeklies/#weekly7">Weekly 7</a><br>
+              DUE: <a href="<?php echo getRoot(); ?>projects/#p3p1">Project 3, part 1 - Pecha Kucha</a><br>
               Lecture: <a href="<?php echo getRoot(); ?>notes/11_crowdsourcing.pdf">Crowdsourcing</a><br>
-              Who cares pecha kuchas
             </td>
           </tr>
           <tr class='spacer'></tr>
@@ -190,7 +190,7 @@
             <td>WEEK 8</td>
             <td>T 11/21</td>
             <td>
-              DUE: <a href="<?php echo getRoot(); ?>projects/#p3p1">Project 3, part 1 - Concept and sketches</a><br>
+              DUE: <a href="<?php echo getRoot(); ?>projects/#p3p2">Project 3, part 2 - Concept and sketches</a><br>
               Individual meetings / studio
             </td>
           </tr>
@@ -209,7 +209,7 @@
             <td>WEEK 9</td>
             <td>T 11/28</td>
             <td>
-            DUE: <a href="<?php echo getRoot(); ?>projects/#p3p2">Project 3, part 2 - Collect</a><br>
+            DUE: <a href="<?php echo getRoot(); ?>projects/#p3p3">Project 3, part 3 - Collect</a><br>
             Lecture: working with data</a> (<a href="<?php echo getRoot(); ?>notes/12_data_code.zip">code</a>)<br>
             Studio
             </td>
@@ -220,7 +220,7 @@
             <td>Th 11/30</td>
             <td>
               DUE: <a href="<?php echo getRoot(); ?>weeklies/#weekly9">Weekly 8</a><br>
-              Workshop: fake news (<a href='http://davidleonard.tv/'>David Leonard</a>) ??
+              Lecture: Fake news (<a href='http://davidleonard.tv/'>David Leonard</a>)
             </td>
           </tr>
           <tr class='spacer'></tr>
@@ -239,7 +239,7 @@
             <td></td>
             <td>Th 12/7</td>
             <td>
-              ❗DUE: <a href="<?php echo getRoot(); ?>projects/#p3p3">Project 3 - Crowdsourced</a><br>
+              ❗DUE: <a href="<?php echo getRoot(); ?>projects/#p3p4">Project 3 - Crowdsourced</a><br>
               Review project 3
             </td>
           </tr>
