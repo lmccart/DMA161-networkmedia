@@ -14,22 +14,40 @@
 
     <div class="right">
       <h2>PROJECTS</h2>
-<!--       
+      
       <section>
       
         <h3 id="project3">PROJECT 3</h3>
          
-        <p>This project is about crowdsourcing. You will work in partners, and there are you will determine one question or task to administer to three different crowds – social media, mechanical turk, and in person. Once you have collected your results, you will use them to create a compelling experience online.</p>
+        <p>This project is about crowds. What do you have to say to them? What can you learn from them? You will work in partners, and there are you will determine one topic or issue you want to address with a crowd. You will then determine one question or task to administer to a crowd – it could be via social media, mechanical turk, or some other online mechanism. Once you have collected your results, you will use them to create a compelling experience that meaningfully addresses the topic you chose.</p>
 
-        <h4 id="p3p1">PART 1: CONCEPT (DUE 5/30)</h4>
-        <div id="p3p1-content" style='display:block;'>
-          <p>Determine a question or task that will you will administer via social media, mechanical turk, and in person. For example, you might ask each person to:</p>
+        <h4 id="p3p1">PART 1: TOPIC (DUE 11/16)</h4>
+        <div id="p3p1-content" style='display:none;'>
+          <p>Determine a topic or issue that your team would like to focus on for this project. It could be something in the news, an issue you feel needs more awareness, or anything else. The topic should be <b>specific</b>, and something you can form a <b>point of view</b> around. That is, "cats" or "the color red" are probably not appropriate topics.</p>
+
+          <p>Once you have selected a topic or issue, create a <a href="https://en.wikipedia.org/wiki/PechaKucha">pecha kucha</a> presentation to share in class on 11/16. Your pecha kucha will have 10 slides for 20 seconds each, for a total of 200 seconds (about 3.5 mins). Please use <a href="https://docs.google.com/presentation/d/1kPZOSIIDldvVu-ok4idLgKoESYwxZieQ8aGhtl2B3nA/edit#slide=id.p">this template</a> which has auto-timed slides set up for you. See the instructions below for how to use it. In your presentation, you should introduce the topic, help us understand why we should care, and share your point of view on it.</p>
+
+          <ol>
+            <li>Go to File > Make a Copy</li>
+            <li>Fill in the slide contents (you can delete the numbers).</li>
+            <li>When it's done, go to File > Publish to the web, and select these settings and click Publish:
+              <img src="../imgs/publish.png">
+            </li>
+            <li>Copy the link and test it in your browser. In the URL, add an extra 0 to the part that says 2000, so it reads "delayms=20000". This will make the slides advance every 20s.</li>
+            <li>Add this updated URL to one of your class index pages for easy access during class.</li>
+          </ol>
+
+        </div>
+        <br>
+        <h4 id="p3p2">PART 2: CONCEPT (DUE 11/21)</h4>
+        <div id="p3p2-content" style='display:none;'>
+          <p>Think of a way to explore your topic with a crowd. Determine a question or task that will you will administer via social media, mechanical turk, or some other online mechanism. You will need to collect at least 50 responses. For example, you might ask each person to:</p>
            
           <ul>
             <li>Answer a question.</li>
             <li>Give you a piece of information.</li>
             <li>Give you a piece of media (image, sound, video, etc).</li>
-            <li>Compose a creative response to a prompt.</li>
+            <li>React to a prompt or statement.</li>
             <li>Complete a task and send the results or documentation.</li>
             <li>Do a part of a task that is divided up over many people.</li>
             <li>?</li>
@@ -38,7 +56,7 @@
           <p>Here are some considerations:</p>
           <ul>
             <li>Clarity – How will you communicate the question/task to people? How will you get them to respond?</li>
-            <li>Scale – You will need to be able to collect at least 30 results through each of these three channels (at least 60 results total).</li>
+            <li>Scale – You will need to be able to collect at least 50 results. What channel will you use?</li>
             <li>Output – You will need to be able to display your results in some type of composition online, so consider the form responses will take.</li>
             <li>Privacy – If you require a very personal or identifiable response, let people know their response will be included in a project that may be publicly viewable online.</li>
             <li>Decency – How are you involving other people in your work? Are they able to consent? Are you treating them with respect?</li>
@@ -46,22 +64,22 @@
         </div>
         <br>
         
-        <h4 id="p3p2">PART 2: COLLECT (DUE 6/1)</h4>
-        <div id="p3p2-content" style='display:none;'>
-          <p>Next, you will deploy your question/task to the three channels (social media, mechanical turk, in person). You need to collect at least 30 results from each channel; you are welcome to collect more than 30. Each of the three crowds will require a different strategy for connecting to people:</p>
+        <h4 id="p3p3">PART 3: COLLECT (DUE 11/28)</h4>
+        <div id="p3p3-content" style='display:none;'>
+          <p>Next, you will deploy your question/task through your selected channel online. You need to collect at least 50 results; you are welcome to collect more. Different channels will require a different strategy for connecting to people:</p>
           
           <ul>
             <li>Social media – A Facebook post? An Instagram post? A Twitter poll? A Snapchat message? Something else? How do you ask and how do people submit their responses?</li>
             <li><a href="https://requester.mturk.com">Mechanical Turk</a> – Click "Get Started" and then "New Project". Choose the format that is most relevant. You may need to experiment with payment amount.</li>
-            <li>In person – Do you walk up to people? Set up a booth? Where and when?</li>
+            <li>Online platforms – An online form? A comment on a YouTube video? An email survey? Interviewing participants in a virtual world? What are other interesting online platforms you might use?</li>
           </ul>
            
-          <p>You need to have deployed your question/task to all three crowds by 6/1. Ideally, you will already have some of the results to work with in class.</p>
+          <p>You need to have deployed your question/task to your crowd by 11/28. Ideally, you will already have some of the results to work with in class.</p>
         </div>
         <br>
 
-        <h4 id="p3p3">PART 3: BUILD (6/8)</h4>
-        <div id="p3p3-content" style='display:none;'>
+        <h4 id="p3p4">PART 4: BUILD (12/7)</h4>
+        <div id="p3p4-content" style='display:none;'>
           <p>Create a compelling display of your results online. Consider the results as your source material, you are welcome to add content, editorialize, or augment this material in any way you like. The form is completely up to you. Here are some ideas:</p>
            
           <ul>
@@ -72,12 +90,11 @@
             <li>?</li>
           </ul>
            
-          <p>You will present this in class on 6/8.</p>
+          <p>You will present this in class on 12/7.</p>
         </div>
 
       </section>
 
-       -->
       <section>
 
         <h3 id="project2">PROJECT 2</h3>
@@ -93,7 +110,7 @@
         </p>
 
         <h4 id="p2p1">PART 1: CONCEPT (DUE 11/2)</h4><br>
-        <div id="p2p1-content" style='display:block;'>
+        <div id="p2p1-content" style='display:none;'>
           <ol>
             <li>Take a walk, drive, journey and identify your place. This <a href="https://alpha.editor.p5js.org/full/HJOquTwgZ">LocateMe app</a> <a href="https://alpha.editor.p5js.org/lmccart/sketches/HJOquTwgZ">(code view)</a> can help you identify your current lat/lon, or you can look up a location's position on google maps.</li>
             <li>Determine how your piece will change your experience of this place. Download this <a href="location-template.pdf">project template</a>, and write a one paragraph (minimum 4 sentences) description of the concept, identifying the mobile functionality you will make use of.</li>
@@ -104,7 +121,7 @@
         </div>
 
         <h4 id="p2p2">PART 2: BUILD (DUE 11/14)</h4><br>
-        <div id="p2p2-content" style='display:none;'>
+        <div id="p2p2-content" style='display:block;'>
 
           <p>The final piece should have a clear concept that is communicated through a fully resolved and implemented design. It should look correct on a standard mobile device size. For the review, you will demonstrate your project in class so if it only works in one GPS location, create a way for us to view it in class. Post a link to your project on your index page. Your project can either be uploaded directly to cyberduck, or you can post a link to the project in the web editor.</p>
     

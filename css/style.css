@@ -7,7 +7,7 @@ body {
 }
 
 
-
+/*
 .animated {
   -webkit-animation: filter-animation 8s infinite;
   animation: filter-animation 8s infinite;
@@ -45,7 +45,7 @@ body {
     filter: hue-rotate(0deg);
   }
 }
-
+*/
 
 
 

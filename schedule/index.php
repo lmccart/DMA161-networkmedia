@@ -148,7 +148,7 @@
             <td>T 11/7</td>
             <td>
               ⚡ Lecture: <a href='http://blog.jennnkagan.com/'>Jen Kagan</a><br>
-              Lecture: p5.js, media (<a href="<?php echo getRoot(); ?>notes/10_p5_code_3.zip">code</a>)<br>
+              Lecture: p5.js, media, geolocation (<a href="<?php echo getRoot(); ?>notes/10_p5_code_3.zip">code</a>)<br>
               Studio<br>
               <span style='background:orange'>DMA Lecture: <a href='http://dma.ucla.edu/events/calendar/?ID=1038'>Angela Washko</a></span>
             </td>
