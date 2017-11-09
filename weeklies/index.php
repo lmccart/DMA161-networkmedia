@@ -17,6 +17,13 @@
       <p>Weeklies are due <b>before the start of class</b> on Thursday. Your index page should have a section with a link to each weekly. Weekly P/F grades are posted <a target="_blank" href="https://docs.google.com/spreadsheets/d/1KI-6mijcypeczlwRfitTRq2lbtJpA3hB1dGWXfkrv7U/edit?usp=sharing#gid=1091796845">here</a>, if you want to dispute a P/F you are responsible for notifying the TA within two weeks.</p>
       <section>
 
+
+        <h3 id="weekly7">WEEKLY 7 (DUE 11/16)</h3>
+        Kid’s YouTube<br><br>
+        
+        <p>Read James Bridge, <a href="https://medium.com/@jamesbridle/something-is-wrong-on-the-internet-c39c471271d2">Something is wrong on the internet</a>. Post a one paragraph response as your seventh weekly response, and link to it from your index page. What do you think about his point? Are there other internet subcultures / phenomena that worry you more? What are they?</p>
+
+
         <h3 id="weekly6">WEEKLY 6 (DUE 11/9)</h3>
 
         Remote Network<br>
@@ -72,10 +79,6 @@
         
         <!-- 
 
-
-        <h3 id="weekly7">WEEKLY 7 (DUE 5/23)</h3>
-        Deep Surfing<br><br>
-        <p>Plumb the depths of the World Wide Web, pick an obscure artifact of your interest and prepare a short presentation to explain its significance to the class. It can be a sign of a sub-subculture, an overlooked piece of humor, a digital ready made, a signal of a possibly emerging trend.<br>(Borrowed from Paolo Pedercini's <a href="http://internetresistance.molleindustria.org/">Internet Resistance class</a>. Thanks!)<br><b>+1 point for extra effort</b></p>
         
         <h3 id="weekly8">WEEKLY 8 (DUE 5/30)</h3>
         Interfaces for People<br><br>
