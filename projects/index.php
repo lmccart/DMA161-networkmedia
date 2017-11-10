@@ -21,11 +21,11 @@
          
         <p>This project is about crowds. What do you have to say to them? What can you learn from them? You will work in partners, and there are you will determine one topic or issue you want to address with a crowd. You will then determine one question or task to administer to a crowd – it could be via social media, mechanical turk, or some other online mechanism. Once you have collected your results, you will use them to create a compelling experience that meaningfully addresses the topic you chose.</p>
 
-        <h4 id="p3p1">PART 1: TOPIC (DUE 11/16)</h4>
+        <h4 id="p3p1">PART 1: TOPIC (DUE 11/21)</h4>
         <div id="p3p1-content" style='display:none;'>
           <p>Determine a topic or issue that your team would like to focus on for this project. It could be something in the news, an issue you feel needs more awareness, or anything else. The topic should be <b>specific</b>, and something you can form a <b>point of view</b> around. That is, "cats" or "the color red" are probably not appropriate topics.</p>
 
-          <p>Once you have selected a topic or issue, create a <a href="https://en.wikipedia.org/wiki/PechaKucha">pecha kucha</a> presentation to share in class on 11/16. Your pecha kucha will have 10 slides for 20 seconds each, for a total of 200 seconds (about 3.5 mins). Please use <a href="https://docs.google.com/presentation/d/1kPZOSIIDldvVu-ok4idLgKoESYwxZieQ8aGhtl2B3nA/edit#slide=id.p">this template</a> which has auto-timed slides set up for you. See the instructions below for how to use it. In your presentation, you should introduce the topic, help us understand why we should care, and share your point of view on it. Both of you will present the pecha kucha together, so divide up who talks about which slide.</p>
+          <p>Once you have selected a topic or issue, create a <a href="https://en.wikipedia.org/wiki/PechaKucha">pecha kucha</a> presentation to share in class on 11/21. Your pecha kucha will have 10 slides for 20 seconds each, for a total of 200 seconds (about 3.5 mins). Please use <a href="https://docs.google.com/presentation/d/1kPZOSIIDldvVu-ok4idLgKoESYwxZieQ8aGhtl2B3nA/edit#slide=id.p">this template</a> which has auto-timed slides set up for you. See the instructions below for how to use it. In your presentation, you should introduce the topic, help us understand why we should care, and share your point of view on it. Both of you will present the pecha kucha together, so divide up who talks about which slide.</p>
 
           <ol>
             <li>Go to File > Make a Copy</li>
@@ -39,7 +39,7 @@
 
         </div>
         <br>
-        <h4 id="p3p2">PART 2: CONCEPT (DUE 11/21)</h4>
+        <h4 id="p3p2">PART 2: CONCEPT (DUE 11/28)</h4>
         <div id="p3p2-content" style='display:none;'>
           <p>Think of a way to explore your topic with a crowd. Determine a question or task that will you will administer via social media, mechanical turk, or some other online mechanism. You will need to collect at least 50 responses. For example, you might ask each person to:</p>
            
@@ -64,7 +64,7 @@
         </div>
         <br>
         
-        <h4 id="p3p3">PART 3: COLLECT (DUE 11/28)</h4>
+        <h4 id="p3p3">PART 3: COLLECT (DUE 11/30)</h4>
         <div id="p3p3-content" style='display:none;'>
           <p>Next, you will deploy your question/task through your selected channel online. You need to collect at least 50 results; you are welcome to collect more. Different channels will require a different strategy for connecting to people:</p>
           
@@ -120,7 +120,7 @@
           <br>
         </div>
 
-        <h4 id="p2p2">PART 2: BUILD (DUE 11/14)</h4><br>
+        <h4 id="p2p2">PART 2: BUILD (DUE 11/16)</h4><br>
         <div id="p2p2-content" style='display:block;'>
 
           <p>The final piece should have a clear concept that is communicated through a fully resolved and implemented design. It should look correct on a standard mobile device size. For the review, you will demonstrate your project in class so if it only works in one GPS location, create a way for us to view it in class. Post a link to your project on your index page. Your project can either be uploaded directly to cyberduck, or you can post a link to the project in the web editor.</p>

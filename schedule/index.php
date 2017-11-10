@@ -169,8 +169,7 @@
             <td>WEEK 7</td>
             <td>T 11/14</td>
             <td>
-              ❗ DUE: <a href="<?php echo getRoot(); ?>projects/#p2p2">Project 2 - Location</a><br>
-              Review Project 2
+              Studio
             </td>
           </tr>
           <tr class='spacer'></tr>
@@ -178,9 +177,8 @@
             <td></td>
             <td>Th 11/16</td>
             <td>
-              DUE: <a href="<?php echo getRoot(); ?>weeklies/#weekly7">Weekly 7</a><br>
-              DUE: <a href="<?php echo getRoot(); ?>projects/#p3p1">Project 3, part 1 - Pecha Kucha</a><br>
-              Lecture: <a href="<?php echo getRoot(); ?>notes/11_crowdsourcing.pdf">Crowdsourcing</a><br>
+              ❗ DUE: <a href="<?php echo getRoot(); ?>projects/#p2p2">Project 2 - Location</a><br>
+              Review Project 2
             </td>
           </tr>
           <tr class='spacer'></tr>
@@ -190,8 +188,9 @@
             <td>WEEK 8</td>
             <td>T 11/21</td>
             <td>
-              DUE: <a href="<?php echo getRoot(); ?>projects/#p3p2">Project 3, part 2 - Concept and sketches</a><br>
-              Individual meetings / studio
+
+              DUE: <a href="<?php echo getRoot(); ?>projects/#p3p1">Project 3, part 1 - Pecha Kucha</a><br>
+              Lecture: <a href="<?php echo getRoot(); ?>notes/11_crowdsourcing.pdf">Crowdsourcing</a><br>
             </td>
           </tr>
           <tr class='spacer'></tr>
@@ -208,10 +207,10 @@
           <tr>
             <td>WEEK 9</td>
             <td>T 11/28</td>
-            <td>
-            DUE: <a href="<?php echo getRoot(); ?>projects/#p3p3">Project 3, part 3 - Collect</a><br>
-            Lecture: working with data</a> (<a href="<?php echo getRoot(); ?>notes/12_data_code.zip">code</a>)<br>
-            Studio
+            <td>              
+              DUE: <a href="<?php echo getRoot(); ?>projects/#p3p2">Project 3, part 2 - Concept and sketches</a><br>
+              Lecture: working with data</a> (<a href="<?php echo getRoot(); ?>notes/12_data_code.zip">code</a>)<br>
+              Individual meetings / studio
             </td>
           </tr>
           <tr class='spacer'></tr>
@@ -220,7 +219,9 @@
             <td>Th 11/30</td>
             <td>
               DUE: <a href="<?php echo getRoot(); ?>weeklies/#weekly9">Weekly 8</a><br>
-              Lecture: Fake news (<a href='http://davidleonard.tv/'>David Leonard</a>)
+              DUE: <a href="<?php echo getRoot(); ?>projects/#p3p3">Project 3, part 3 - Collect</a><br>
+              Lecture: Fake news (<a href='http://davidleonard.tv/'>David Leonard</a>)<br>
+              Studio
             </td>
           </tr>
           <tr class='spacer'></tr>

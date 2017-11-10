@@ -19,10 +19,10 @@
 
 
         <h3 id="weekly7">WEEKLY 7 (DUE 11/16)</h3>
-        Kid’s YouTube<br><br>
+        <p>No weekly: work on project 2</p>
         
-        <p>Read James Bridle, <a href="https://medium.com/@jamesbridle/something-is-wrong-on-the-internet-c39c471271d2">Something is wrong on the internet</a>. Post a one paragraph response as your seventh weekly response, and link to it from your index page. What do you think about his point? Are there other internet subcultures / phenomena that worry you more? What are they?</p>
-
+<!--         <p>Read James Bridle, <a href="https://medium.com/@jamesbridle/something-is-wrong-on-the-internet-c39c471271d2">Something is wrong on the internet</a>. Post a one paragraph response as your seventh weekly response, and link to it from your index page. What do you think about his point? Are there other internet subcultures / phenomena that worry you more? What are they?</p>
+ -->
 
         <h3 id="weekly6">WEEKLY 6 (DUE 11/9)</h3>
 
