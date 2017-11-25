@@ -17,6 +17,20 @@
       <p>Weeklies are due <b>before the start of class</b> on Thursday. Your index page should have a section with a link to each weekly. Weekly P/F grades are posted <a target="_blank" href="https://docs.google.com/spreadsheets/d/1KI-6mijcypeczlwRfitTRq2lbtJpA3hB1dGWXfkrv7U/edit?usp=sharing#gid=1091796845">here</a>, if you want to dispute a P/F you are responsible for notifying the TA within two weeks.</p>
       <section>
 
+        <h3 id="weekly8">WEEKLY 9 (DUE 11/30)</h3>
+        Interfaces for People<br><br>
+        <img src="taskrabbit.png">
+        <ul>
+          <li>Listen: <a href="https://soundcloud.com/zekejmiller/new-recording-68">I am a real person.</a></li>
+          <li>Read as much as you like of <a href="http://www.theatlantic.com/technology/archive/2013/12/almost-human-the-surreal-cyborg-future-of-telemarketing/282537/">Almost Human: The Surreal, Cyborg Future of Telemarketing</a>.</li>
+          <li><a href="https://ifttt.com/">Create an IFTTT receipe</a> that alters your daily life in some (ideally -- interesting and significant) way. Run your recipe for at least one full day.</li>
+          <li>Post a screenshot of the recipe, and a brief summary of your experience.</li>
+        </ul>
+
+
+        <h3 id="weekly8">WEEKLY 8 (DUE 11/23)</h3>
+        <p>No weekly: thanksgiving</p>
+        
 
         <h3 id="weekly7">WEEKLY 7 (DUE 11/16)</h3>
         <p>No weekly: work on project 2</p>
