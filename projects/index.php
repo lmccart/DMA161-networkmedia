@@ -65,7 +65,7 @@
         <br>
         
         <h4 id="p3p3">PART 3: COLLECT (DUE 11/30)</h4>
-        <div id="p3p3-content" style='display:none;'>
+        <div id="p3p3-content" style='display:block;'>
           <p>Next, you will deploy your question/task through your selected channel online. You need to collect at least 50 results; you are welcome to collect more. Different channels will require a different strategy for connecting to people:</p>
           
           <ul>
