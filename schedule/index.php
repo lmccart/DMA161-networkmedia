@@ -218,7 +218,7 @@
             <td></td>
             <td>Th 11/30</td>
             <td>
-              DUE: <a href="<?php echo getRoot(); ?>weeklies/#weekly9">Weekly 8</a><br>
+              DUE: <a href="<?php echo getRoot(); ?>weeklies/#weekly9">Weekly 9</a><br>
               DUE: <a href="<?php echo getRoot(); ?>projects/#p3p3">Project 3, part 3 - Collect</a><br>
               Lecture: Fake news (<a href='http://davidleonard.tv/'>David Leonard</a>)<br>
               Studio
