@@ -65,7 +65,7 @@
         <br>
         
         <h4 id="p3p3">PART 3: COLLECT (DUE 11/30)</h4>
-        <div id="p3p3-content" style='display:block;'>
+        <div id="p3p3-content" style='display:none;'>
           <p>Next, you will deploy your question/task through your selected channel online. You need to collect at least 50 results; you are welcome to collect more. Different channels will require a different strategy for connecting to people:</p>
           
           <ul>
@@ -79,7 +79,7 @@
         <br>
 
         <h4 id="p3p4">PART 4: BUILD (12/7)</h4>
-        <div id="p3p4-content" style='display:none;'>
+        <div id="p3p4-content" style='display:block;'>
           <p>Create a compelling display of your results online. Consider the results as your source material, you are welcome to add content, editorialize, or augment this material in any way you like. The form is completely up to you. Here are some ideas:</p>
            
           <ul>
