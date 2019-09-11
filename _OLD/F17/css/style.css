@@ -1,0 +1,338 @@
+body {
+  padding: 0;
+  margin: 3em; 
+  font-family: 'Amiko', sans-serif;
+  line-height: 1.5em;
+  font-size: 15px;
+}
+
+
+/*
+.animated {
+  -webkit-animation: filter-animation 8s infinite;
+  animation: filter-animation 8s infinite;
+}
+
+.animated2 {
+  -webkit-animation: filter-animation 15s infinite;
+  animation: filter-animation 15s infinite;
+}
+
+@-webkit-keyframes filter-animation {
+  0% {
+    -webkit-filter: hue-rotate(0deg);
+  }
+  
+  50% {
+    -webkit-filter: hue-rotate(100deg);
+  }
+  
+  100% {
+    -webkit-filter: hue-rotate(0deg);
+  }
+}
+
+@keyframes filter-animation {
+  0% {
+    filter: hue-rotate(0deg);
+  }
+  
+  50% {
+    filter: hue-rotate(100deg);
+  }
+  
+  100% {
+    filter: hue-rotate(0deg);
+  }
+}
+*/
+
+
+
+*, *:before, *:after {
+  -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box;
+}
+
+nav {
+  position: absolute;
+  top: 4em;
+  left: 2em;
+  text-transform: uppercase;
+  width: 10em;
+}
+
+nav li {
+
+  color: red;
+  display: inline-block;
+  font-size: 1.2em;
+  margin: 0 -0.75em;
+}
+
+h1, #links {
+  width: 40em;
+}
+
+#links li:nth-child(1) {
+   transform: rotate(-52deg);
+}
+#links li:nth-child(2) {
+   transform: rotate(-7deg);
+}
+#links li:nth-child(3) {
+   transform: rotate(-42deg);
+}
+#links li:nth-child(4) {
+   transform: rotate(-25deg);
+}
+#links li:nth-child(5) {
+   transform: rotate(-32deg);
+}
+#links li:nth-child(6) {
+   transform: rotate(-22deg);
+}
+
+nav ul {
+  margin: 0;
+  padding: 0;
+
+}
+
+/*
+section ul {
+  margin-left:1.5em;
+}
+*/
+
+.container:after {
+  content:"";
+  display: table;
+  clear: both;
+}
+
+
+.right {
+  margin-left: 10em;
+  float: left;
+  max-width: 800px;
+}
+
+a {
+  color: darkviolet;
+  text-decoration: none;
+}
+
+a:hover {
+  background: yellow;
+  color: black;
+}
+
+h1 a {
+  color: black;
+  background: none !important;
+}
+
+h1 {
+  text-decoration: none;
+  font-weight: bold;
+  padding: 0;
+  margin: 0 0 3em 0;
+  font-size: 1.75em;
+  height: 30px;
+}
+
+h1 a:hover {
+  color: yellow;
+  font-size: 3em;
+}
+
+
+h2 {
+  font-weight: normal;
+  font-size: 1.75em;
+  margin-top: 0;
+}
+
+h3 {
+  text-transform: uppercase;
+}
+
+h3, table {
+  margin-top: 2em;
+}
+
+p {
+  padding: 0;
+  margin: 0;
+  margin-bottom: 2em;
+}
+
+section {
+  margin-bottom: 4em;
+}
+
+.gif {
+  width: 240px;
+  height: 180px;
+  overflow: hidden;
+  float: left;
+  margin-left: 1em;
+  margin-bottom: 1em;
+  position: relative;
+  cursor: pointer;
+}
+
+
+.gif:hover {
+  border: 5px solid rgba(0, 0, 0, 0);
+}
+
+.students {
+  margin: 2em;
+  margin-top: 4.5em;
+  text-transform: none;
+}
+
+.students a {
+  color: yellow;
+}
+.students a:hover {
+  color: black;
+  background: yellow;
+}
+
+.students li {
+  display: inline;
+  font-size: 1em;
+}
+
+img {
+  max-width: 100%;
+}
+
+li img {
+  margin: 0.5em 0;
+}
+
+table {
+  width: 100%;
+}
+
+tr {
+  vertical-align: top;
+}
+
+td:nth-child(1) {  
+  width: 15%;
+  font-weight: bold;
+}
+
+td:nth-child(2) {  
+  width: 15%;
+}
+
+td {
+  width: 70%;
+}
+
+.spacer {
+  height: 3em;
+}
+
+#background {
+  content: "";
+  opacity: 0.35;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  position: absolute;
+  z-index: -1; 
+  background-repeat: repeat;  
+  width: 100%;
+  height: 200%;
+  background-size:contain;
+  background-repeat:repeat-y;
+}
+
+#projects h4 {
+  color: darkviolet;
+  display: inline-block;
+  margin-top: 0;
+  cursor: pointer;
+}
+
+#projects h4:hover {
+  color: black;
+  background: yellow;
+}
+
+.label {
+  font-weight: bold;
+}
+
+
+pre {
+  line-height: 1.45em;
+}
+
+@media screen and (min-width: 801px ) {
+  .left {
+    width: 10em;
+  }
+  .right {
+    width: 75%;
+  }
+  .students li {
+    display: block;
+  }
+  
+}
+
+
+@media screen and (max-width: 800px) {
+  body {
+    margin: 2em;
+  }
+
+  h1 {
+    width: 100%;
+    text-align: center;
+  }
+
+  #links li {
+   transform: rotate(0) !important;
+   display: inline-block;
+   margin-left: 1em;
+  }
+
+  #links {
+    text-align: center;
+    width: 95%;
+  }
+
+  nav {
+    width: 100%;
+    left: 0;
+    top: 5em;
+  }
+  .students {
+
+    margin-top: 1em;
+    text-align: center;
+  }
+
+  .students a{
+    color: red;
+  }
+  .students li {
+
+    margin: 0 !important;
+  }
+
+  .right {
+    margin: 0;
+    margin-top: 10em;
+    width: 100%;
+  }
+}
