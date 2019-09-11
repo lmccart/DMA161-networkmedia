@@ -5,3 +5,4 @@ Network Media explores the creative, technical, and critical tools to realize we
 * http://classes.dma.ucla.edu/Fall16/161/
 * http://classes.dma.ucla.edu/Spring17/161/
 * http://classes.dma.ucla.edu/Fall17/161/
+* http://classes.dma.ucla.edu/Fall19/161/
