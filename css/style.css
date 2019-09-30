@@ -4,7 +4,7 @@ body {
   font-family: 'Source Sans Pro', input-mono-narrow, sans-serif;
   line-height: 1.4em;
   font-size: 16px;
-  background: #f5ffff;
+  background: #ffe8dd;
 }
 
 *, *:before, *:after {
@@ -83,6 +83,15 @@ h1 a {
   background: none !important;
 }
 
+.toggles {
+  cursor: pointer;
+  display: inline-block;
+}
+
+.toggles:hover {
+  background: white;
+}
+
 
 p {
   padding: 0;
@@ -150,11 +159,8 @@ ol li {
   height: 3em;
 }
 
-#projects h3 {
-  display: block;
-  float: left;
-  clear: both;
-  margin: 0.5em 0;
+#projects h3, #discussions h3 {
+  margin: 1em 0;
 }
 
 #projects div {
@@ -191,9 +197,9 @@ pre {
   width: 100%;
   text-align: right;
   color: #d0d0d0;
-  position: relative;
-  right: -1.5em;
-  bottom: -1.5em;
+  position: absolute;
+  right: 1em;
+  bottom: 1em;
 }
 
 .sr-only {

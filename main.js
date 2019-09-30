@@ -14,21 +14,26 @@ $(document).ready(function() {
     openSection(selected);
   });
 
+  $('#discussions h3').click(function() {
+    var selected = $(this).attr('id');
+    openSection('#discussions', selected);
+  });
+
   $('#projects h3').click(function() {
     var selected = $(this).attr('id');
     openSection('#projects', selected);
   });
 });
 
-function openSection(id, heading) {
+function openSection(id, heading, typeId) {
   if (open && open === heading) closeSection(heading);
   else {
     $('.block').hide();
     if (heading) $('.toggle').hide();
     $(id).show();
     $('#'+heading+'-content').show();    
-    if ($('#projects div.toggle:visible')[0]) {
-      open = $('#projects div.toggle:visible')[0].id.substring(0, 2);
+    if ($(id+' div.toggle:visible')[0]) {
+      open = $(id+' div.toggle:visible')[0].id.substring(0, 2);
     }
     window.location.hash = id.substring(1);
     if (!heading) {
