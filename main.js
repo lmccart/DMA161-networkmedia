@@ -25,21 +25,22 @@ $(document).ready(function() {
   });
 });
 
-function openSection(id, heading, typeId) {
+function openSection(id, heading) {
   if (open && open === heading) closeSection(heading);
   else {
     $('.block').hide();
     if (heading) $('.toggle').hide();
     $(id).show();
-    $('#'+heading+'-content').show();    
-    if ($(id+' div.toggle:visible')[0]) {
-      open = $(id+' div.toggle:visible')[0].id.substring(0, 2);
+
+    if (heading) {
+      $('#'+heading+'-content').show();    
+      if ($(id+' div.toggle:visible')[0]) {
+        open = $(id+' div.toggle:visible')[0].id.substring(0, 2);
+      }
     }
     window.location.hash = id.substring(1);
     if (!heading) {
       $(window).scrollTop(0);
-    } else {
-      $(window).scrollTop($("#"+heading).offset().top-30);
     }
   }
 }

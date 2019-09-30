@@ -1,0 +1,122 @@
+<!doctype html>
+<html lang='en'>
+<head>
+  <meta charset='utf-8'>
+  <meta http-equiv='cache-control' content='max-age=0' />
+  <meta http-equiv='cache-control' content='no-cache' />
+  <meta http-equiv='expires' content='0' />
+  <meta http-equiv='expires' content='Tue, 01 Jan 1980 1:00:00 GMT' />
+  <meta http-equiv='pragma' content='no-cache' />
+  <meta name='viewport' content='width=device-width, initial-scale=1'>
+  <meta name='viewport' content='width=device-width'>
+  <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro" rel="stylesheet">
+  <link rel='stylesheet' href='/css/normalize.min.css'>
+  <link rel='stylesheet' href='/css/style.css?v=1.0'></link>
+  <link rel='stylesheet' href='/css/prism.css'></link>
+  <link href='https://fonts.googleapis.com/css?family=Inconsolata' rel='stylesheet'>
+  <script src='https://code.jquery.com/jquery-3.1.1.min.js' integrity='sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=' crossorigin='anonymous'></script>
+  <script src='/main.js'></script>
+  <title>DESMA161: Network Media</title>
+</head>
+<body>
+  <div class='container'>
+    <div class='content'>
+
+      <!-- NAV -->
+      <nav>
+        <ul id='links'>
+          <li><a href="/#syllabus">Syllabus</a></li>
+          <li><a href="/#schedule">Schedule</a></li>
+          <li><a href="/#discussions">Discussions</a></li>
+          <li><a href="/#projects">Projects</a></li>
+          <li><a href="/#resources">Resources</a></li>
+          <li><a target='_blank' href='https://docs.google.com/spreadsheets/d/1EWgywcX2UXznQcioXS0Sy0VbtaC8toW9EXIQCYwAXjc/edit?usp=sharing'>Attendance</a></li>
+        </ul>
+      </nav>
+
+      <!-- HEADING -->
+      <h1><a href=''>DESMA161: Network Media</a></h1>
+
+      
+      <section>
+        <h2>HOW TO FTP</h2>
+        <br>
+
+        <h2>WHAT IS FTP AND SFTP?</h2>
+
+        <p>FTP stands for File Transfer Protocol. It is a standard network protocol used to transfer files between computers, generally between a client and server. An FTP client is a desktop application that lets you transfer files from your comuter to a remote server. It is most commonly used to upload files to a public web server for a website.</p>
+
+        <p>FTP pre-dates HTTP and was not developed to be a secure protocol and has many vulnerabilities. For this reason, we will be using SFTP. SFTP (SSH File Transfer Protocol, or Secure File Transfer Protocol) is a newer protocol designed by the Internet Engineering Task Force to provide secure file transferring between known clients and hosts.</p>
+      </section>
+      <section>
+        <h2>CONNECTING WITH CYBERDUCK</h2>
+
+        <p><img src="cyberduck1.png" alt=""></p>
+
+        <ol>
+        <li>Click the Open Connection icon near the top left.</li>
+        <li>In the dialogue box, choose SFTP (SSH File Transfer Protocol). DO NOT CHOOSE FTP.</li>
+        <li>For server name, enter <code><a href="http://ftp.dma.ucla.edu/" target="_blank">ftp.dma.ucla.edu</a></code> and default port <code>22</code>.</li>
+        <li>Enter your username and DMA support password.</li>
+        <li>The first time you do this, you can select to add to keychain (if you're on your personal computer).
+        </ol>
+        <img src="cyberduck2.png" alt=""></li>
+      </section>
+      
+      <section>
+        <h2>TRANSFERRING FILES</h2>
+
+        <ol>
+        <li>Your files are located inside <code>public_html</code></li>
+        <li>You can drag and drop files inside here to upload to the server or click on the Action menu and choose Upload. You can also choose to rename files, duplicate, delete, etc.</li>
+        <li>Your files are located at <code><a href="http://users.dma.ucla.edu/~yourusername" target="_blank">http://users.dma.ucla.edu/~<wbr>yourusername</a></code>. </li>
+        </ol>
+        
+        <img src="cyberduck3.png" alt="">
+      </section>
+        
+      <section>
+        <h2>OTHER FTP APPLICATIONS</h2>
+
+        <ul>
+        <li><a href="https://filezilla-project.org/" target="_blank">FileZilla</a> - Mac, Windows, Linux</li>
+        <li>SFTP is also pre-installed on OS X's Terminal, accesible via <code>sftp <a href="mailto:yourusername@ftp.dma.ucla.edu" target="_blank">yourusername@ftp.dma.ucla.edu</a></code></li>
+        </ul>
+      </section>
+
+      
+      <section>
+        <h2>BASIC INFO REQUIRED</h2>
+
+        <p>To connect via a FTP connection you need to know:</p>
+
+        <ul>
+        <li>Server name <code><a href="http://ftp.dma.ucla.edu/" target="_blank">ftp.dma.ucla.edu</a></code>  and the default port: <code>22</code><br></li>
+        <li>Username (your UCLA ID)</li>
+        <li>Password (your DMA_Support password)</li>
+        </ul>
+        <p></p>
+      </section>
+
+      <section>
+        <h2>YOUR PERSONAL WEBSPACE</h2>
+
+        <p>The <em>public_html</em> folder in your home directory is the root directory of your web space, and where you may create your personal website. It has been pre-configured with the correct permissions to allow file placed inside to be accessed online. A file called <em>foo.html</em> in that directory will be available online as: <a href="http://users.dma.ucla.edu/~yourusername/foo.html" target="_blank">http://users.dma.ucla.edu/~<wbr>yourusername/foo.html</a></p>
+
+        <p>The special file <em>index.html</em> or <em>index.php</em> is what is brought up automatically if you do not specify a filename at the end of your URL (eg: <a href="http://users.design.ucla.edu/~yourusername" target="_blank">http://users.design.ucla.edu/~<wbr>yourusername</a>). </p>
+
+        <p>PLEASE NOTE: if you do not have an index.html file and type the URL without a filename at the end, you will get an error message (access forbidden). This is for your own protection, as it prevents people from browsing through your directory when you are not ready for them to do so. </p>
+
+        <p>NOTE1: Permissions File permissions matter. All files in the public_html directory should be world-readable in order to ensure their availability online. Similarly, all directories should be world readable and executable. Most clients will deposit the files in the correct manner, but there have been some reports that moving whole folders from other parts of your home directory to your web area may mess up permissions depending on your client. </p>
+
+        <p>NOTE2: CAPITALIZATION MATTERS! That is to say, index.html and iNdex.html are NOT the same files. In order for your site to work properly, you must make sure that both the filenames and the HTML that refers to the filename use the same casing. Since many operating systems by default hide or pretty the actual cases of their filenames, I recommend either turning off those features (if you know how) or use an SFTP client that shows you how the files actually look when uploaded.</p>
+
+        <ul>
+        <li>Info in this section comes from <a href="https://support.dma.ucla.edu/help/?q=FrequentlyAskedQuestions" target="_blank">DMA Support</a></li>
+        </ul>
+      </section>
+    </div>
+  </div>
+</body>
+</html>
+
