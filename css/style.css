@@ -58,6 +58,11 @@ nav ul {
 
 }
 
+code {
+  background: #d5f5ff;
+  padding: 1px 3px;
+}
+
 .container {
   max-width: 1000px;
   margin: 0 auto;
@@ -218,6 +223,10 @@ pre {
   white-space: nowrap !important;            /* 3 */
 }
 
+
+img.max640 {
+  max-width: 640px;
+}
 
 @media screen and (max-width: 800px) {
   body {
