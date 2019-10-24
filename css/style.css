@@ -105,6 +105,10 @@ p {
   margin-bottom: 2em;
 }
 
+#projects p {
+  margin-bottom: 0;
+}
+
 section {
   margin-bottom: 4em;
 }
