@@ -6,3 +6,5 @@ _OLD/S17
 documentation/*
 docs/*
 _notes/*
+*.mp4
+.vscode/*
