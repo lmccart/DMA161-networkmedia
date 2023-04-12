@@ -103,7 +103,20 @@
           <p>NOTE 1: Permissions File permissions matter. All files in the <em>public_html</em> directory should be world-readable in order to ensure their availability online. Similarly, all directories should be world readable and executable. Most clients will deposit the files in the correct manner, but there have been some reports that moving whole folders from other parts of your home directory to your web area may mess up permissions depending on your client. </p>
           <p>NOTE 2: CAPITALIZATION MATTERS! That is to say, <code>index.html</code> and <code>iNdex.html</code> are NOT the same files. In order for your site to work properly, you must make sure that both the filenames and the HTML that refers to the filename use the same casing. Since many operating systems by default hide or pretty the actual cases of their filenames, I recommend either turning off those features (if you know how) or use an SFTP client that shows you how the files actually look when uploaded. </p>
           <p>[ Info in this section comes from <a href="https://support.dma.ucla.edu/help/?q=FrequentlyAskedQuestions" target="_blank">DMA Support</a> ] </p>
-         </main>
+         
+        
+          <h2>Suggested File Structure</h2>
+          <p>It is helpful to put each weekly or project part into it's own file on your local machine and on cyberduck.
+            The file structure should mirror each other. Here's how it would look in cyberduck.</p>
+          </p>
+          <img src="assets/howToFtp/files-cyberduck.png">
+          <p>And here's how you would link to each page from your code. To figure out the path, you start with your homepage,
+            all paths are relative to this. In this case, each folder is one level down from the homepage, so you tell the
+            html code to go into a folder for each project or weekly. The "/" at the end of each path indicates this. 
+            By default the index.html file is displayed for each folder. If you have a different filename besides index.html,
+            you would specify that after the "/".</p>
+          <img src="assets/howToFtp/files-code.png">
+        </main>
       </div>
    </section>
   </body>
