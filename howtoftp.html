@@ -1,104 +1,122 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width initial-scale=1">
-    <meta name="description" content="">
-    <link rel="stylesheet" href="./main.css">
-    <link rel="preconnect" href="https://fonts.googleapis.com/">
-    <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin="">
-    <link href="./css2" rel="stylesheet">
-    <script src="./jquery-3.2.1.min.js"></script>
-    <title>How to Ftp</title>
-  </head>
-  <body>
-    <section>
-      <header>
-        <h1>Network Media / DESMA 161 / UCLA Design Media Arts</h1>
-      </header>
-      <div id="content">
-        <nav role="navigation">
-          <ul>
-            <li class="nav-item">
-              <a href="./index.html">Syllabus</a>
-            </li>
-            <li class="nav-item">
-              <a href="./projects.html">Projects</a>
-            </li>
-            <li class="nav-item">
-              <a href="./resources.html">Resources</a>
-            </li>
-            <li class="nav-item">
-              <a href="./schedule.html">Schedule</a>
-            </li>
-            <li class="nav-item">
-              <a href="./weeklies.html">Weeklies</a>
-            </li>
-          </ul>
-          <ul class="student-list">
-            <li class="nav-item">Students</li>
-          </ul>
-        </nav>
-        <main>
-          <h1 id="">How to FTP</h1>
-          <h2>What is FTP and SFTP?</h2>
-          <p>FTP stands for File Transfer Protocol. It is a standard network protocol used to transfer files between computers, generally between a client and server. An FTP client is a desktop application that lets you transfer files from your comuter to a remote server. It is most commonly used to upload files to a public web server for a website.</p>
-          <p>FTP pre-dates HTTP and was not developed to be a secure protocol and has many vulnerabilities. For this reason, we will be using SFTP. SFTP (SSH File Transfer Protocol, or Secure File Transfer Protocol) is a newer protocol designed by the Internet Engineering Task Force to provide secure file transferring between known clients and hosts.</p>
-          <h2>CONNECTING WITH CYBERDUCK</h2>
-          <img src="./assets/howToFtp/cyberduck_01.png" alt="CyberDuck interface featuring the button options Open Connection and Search at the top of the window">
-          <ol>
-            <li>Click the Open Connection icon near the top of the window.</li>
-            <li>In the dialogue box, choose SFTP (SSH File Transfer Protocol). DO NOT CHOOSE FTP.</li>
-            <li>For server name, enter <code>
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width initial-scale=1">
+  <meta name="description" content="">
+  <link rel="stylesheet" href="./main.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com/">
+  <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin="">
+  <link href="./css2" rel="stylesheet">
+  <script src="./jquery-3.2.1.min.js"></script>
+  <title>How to Ftp</title>
+</head>
+
+<body>
+  <section>
+    <header>
+      <h1>Network Media / DESMA 161 / UCLA Design Media Arts</h1>
+    </header>
+    <div id="content">
+      <nav role="navigation">
+        <ul>
+          <li class="nav-item">
+            <a href="./index.html">Syllabus</a>
+          </li>
+          <li class="nav-item">
+            <a href="./projects.html">Projects</a>
+          </li>
+          <li class="nav-item">
+            <a href="./resources.html">Resources</a>
+          </li>
+          <li class="nav-item">
+            <a href="./schedule.html">Schedule</a>
+          </li>
+          <li class="nav-item">
+            <a href="./weeklies.html">Weeklies</a>
+          </li>
+        </ul>
+        <ul class="student-list">
+          <li class="nav-item">Students</li>
+        </ul>
+      </nav>
+      <main>
+        <h1 id="">How to FTP</h1>
+        <h2>What is FTP and SFTP?</h2>
+        <p>FTP stands for File Transfer Protocol. It is a standard network protocol used to transfer files between
+          computers, generally between a client and server. An FTP client is a desktop application that lets you
+          transfer files from your comuter to a remote server. It is most commonly used to upload files to a public web
+          server for a website.</p>
+        <p>FTP pre-dates HTTP and was not developed to be a secure protocol and has many vulnerabilities. For this
+          reason, we will be using SFTP. SFTP (SSH File Transfer Protocol, or Secure File Transfer Protocol) is a newer
+          protocol designed by the Internet Engineering Task Force to provide secure file transferring between known
+          clients and hosts.</p>
+        <h2>CONNECTING WITH CYBERDUCK</h2>
+        <img src="./assets/howToFtp/cyberduck_01.png"
+          alt="CyberDuck interface featuring the button options Open Connection and Search at the top of the window">
+        <ol>
+          <li>Click the Open Connection icon near the top of the window.</li>
+          <li>In the dialogue box, choose SFTP (SSH File Transfer Protocol). DO NOT CHOOSE FTP.</li>
+          <li>For server name, enter <code>
                 <a href="http://ftp.dma.ucla.edu/" target="_blank">ftp.dma.ucla.edu</a>
               </code> and default port <code>22</code>. </li>
-            <li>Enter your username and DMA support password.</li>
-            <li>The first time you do this, you can select to add to keychain (if you're on your personal computer). </li>
-          </ol>
-          <p>
-            <img src="./assets/howToFtp/cyberduck_02.png" alt="CyberDuck window featuring an overlay form prompting the user for the following fields: Server with input ftp.dma.ucla.edu, Port with input 22, Username, Password, and the Add to Keychain option checked">
-          </p>
-          <h2>Transferrable Files</h2>
-          <ol>
-            <li>Your files are located inside <code>public_html</code>
-            </li>
-            <li>You can drag and drop files inside here to upload to the server or click on the Action menu and choose Upload. You can also choose to rename files, duplicate, delete, etc.</li>
-            <li>Your files are located at <code>
-                <a href="http://users.dma.ucla.edu/~yourusername" target="_blank">http://users.dma.ucla.edu/~<wbr>yourusername</a></code>. </li>
-          </ol>
-          <p>
-            <img src="./assets/howToFtp/cyberduck_03.png" alt="CyberDuck window showing a list of html pages that make up the contents of the public_html folder owned by user mayaman">
-          </p>
-          <h2>Other FTP Applications</h2>
-          <ul>
-            <li>
-              <a href="https://filezilla-project.org/" target="_blank">FileZilla</a> - Mac, Windows, Linux
-            </li>
-            <li>SFTP is also pre-installed on OS X's Terminal, accesible via <code>sftp <a href="mailto:yourusername@ftp.dma.ucla.edu" target="_blank">yourusername@ftp.dma.ucla.edu</a>
+          <li>Enter your username and DMA support password.</li>
+          <li>The first time you do this, you can select to add to keychain (if you're on your personal computer). </li>
+        </ol>
+        <p>
+          <img src="./assets/howToFtp/cyberduck_02.png"
+            alt="CyberDuck window featuring an overlay form prompting the user for the following fields: Server with input ftp.dma.ucla.edu, Port with input 22, Username, Password, and the Add to Keychain option checked">
+        </p>
+        <h2>Transferrable Files</h2>
+        <ol>
+          <li>Your files are located inside <code>public_html</code>
+          </li>
+          <li>You can drag and drop files inside here to upload to the server or click on the Action menu and choose
+            Upload. You can also choose to rename files, duplicate, delete, etc.</li>
+          <li>Your files are located at <code>
+                <a href="http://users.dma.ucla.edu/~yourusername" target="_blank">http://users.dma.ucla.edu/~<wbr>yourusername</a></code>.
+          </li>
+        </ol>
+        <p>
+          <img src="./assets/howToFtp/cyberduck_03.png"
+            alt="CyberDuck window showing a list of html pages that make up the contents of the public_html folder owned by user mayaman">
+        </p>
+        <h2>Other FTP Applications</h2>
+        <ul>
+          <li>
+            <a href="https://filezilla-project.org/" target="_blank">FileZilla</a> - Mac, Windows, Linux
+          </li>
+          <li>SFTP is also pre-installed on OS X's Terminal, accesible via <code>sftp <a href="mailto:yourusername@ftp.dma.ucla.edu" target="_blank">yourusername@ftp.dma.ucla.edu</a>
               </code>
-            </li>
-          </ul>
-          <h2>Basic Info Required</h2>
-          <p>To connect via a FTP connection you need to know:</p>
-          <ul>
-            <li>Server name <code>
+          </li>
+        </ul>
+        <h2>Basic Info Required</h2>
+        <p>To connect via a FTP connection you need to know:</p>
+        <ul>
+          <li>Server name <code>
                 <a href="http://ftp.dma.ucla.edu/" target="_blank">ftp.dma.ucla.edu</a>
               </code> and the default port: <code>22</code>
-              <br>
-            </li>
-            <li>Username (your UCLA ID)</li>
-            <li>Password (your DMA_Support password)</li>
-          </ul>
-          <p></p>
-          <h2>Your Personal Webspace</h2>
-          <p>The <code>public_html</code> folder in your home directory is the root directory of your web space, and where you may create your personal website. It has been pre-configured with the correct permissions to allow file placed inside to be accessed online. A file called <code>foo.html</code> in that directory will be available online as: <code>
+            <br>
+          </li>
+          <li>Username (your UCLA ID)</li>
+          <li>Password (your DMA_Support password)</li>
+        </ul>
+        <p></p>
+        <h2>Your Personal Webspace</h2>
+        <p>The <code>public_html</code> folder in your home directory is the root directory of your web space, and where
+          you may create your personal website. It has been pre-configured with the correct permissions to allow file
+          placed inside to be accessed online. A file called <code>foo.html</code> in that directory will be available
+          online as: <code>
               <a href="http://users.dma.ucla.edu/~yourusername/foo.html" target="_blank">http://users.dma.ucla.edu/~ <wbr>yourusername/foo.html </a>
             </code>
-          </p>
-          <p>The special file <code>index.html</code> or <code>index.php</code> is what is brought up automatically if you do not specify a filename at the end of your URL (eg: <code>
+        </p>
+        <p>The special file <code>index.html</code> or <code>index.php</code> is what is brought up automatically if you
+          do not specify a filename at the end of your URL (eg: <code>
               <a href="http://users.design.ucla.edu/~yourusername" target="_blank">http://users.design.ucla.edu/~ <wbr>yourusername </a>
             </code>). </p>
+<<<<<<< HEAD
           <p>PLEASE NOTE: if you do not have an <em>index.html</em> file and type the URL without a filename at the end, you will get an error message (access forbidden). This is for your own protection, as it prevents people from browsing through your directory when you are not ready for them to do so. </p>
           <p>NOTE 1: Permissions File permissions matter. All files in the <em>public_html</em> directory should be world-readable in order to ensure their availability online. Similarly, all directories should be world readable and executable. Most clients will deposit the files in the correct manner, but there have been some reports that moving whole folders from other parts of your home directory to your web area may mess up permissions depending on your client. </p>
           <p>NOTE 2: CAPITALIZATION MATTERS! That is to say, <code>index.html</code> and <code>iNdex.html</code> are NOT the same files. In order for your site to work properly, you must make sure that both the filenames and the HTML that refers to the filename use the same casing. Since many operating systems by default hide or pretty the actual cases of their filenames, I recommend either turning off those features (if you know how) or use an SFTP client that shows you how the files actually look when uploaded. </p>
@@ -120,4 +138,26 @@
       </div>
    </section>
   </body>
+=======
+        <p>PLEASE NOTE: if you do not have an <em>index.html</em> file and type the URL without a filename at the end,
+          you will get an error message (access forbidden). This is for your own protection, as it prevents people from
+          browsing through your directory when you are not ready for them to do so. </p>
+        <p>NOTE 1: Permissions File permissions matter. All files in the <em>public_html</em> directory should be
+          world-readable in order to ensure their availability online. Similarly, all directories should be world
+          readable and executable. Most clients will deposit the files in the correct manner, but there have been some
+          reports that moving whole folders from other parts of your home directory to your web area may mess up
+          permissions depending on your client. </p>
+        <p>NOTE 2: CAPITALIZATION MATTERS! That is to say, <code>index.html</code> and <code>iNdex.html</code> are NOT
+          the same files. In order for your site to work properly, you must make sure that both the filenames and the
+          HTML that refers to the filename use the same casing. Since many operating systems by default hide or pretty
+          the actual cases of their filenames, I recommend either turning off those features (if you know how) or use an
+          SFTP client that shows you how the files actually look when uploaded. </p>
+        <p>[ Info in this section comes from <a href="https://support.dma.ucla.edu/help/?q=FrequentlyAskedQuestions"
+            target="_blank">DMA Support</a> ] </p>
+      </main>
+    </div>
+  </section>
+</body>
+
+>>>>>>> 6834b6abf56ff0ae07a16928365c4ba851651041
 </html>
