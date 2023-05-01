@@ -1,0 +1,19 @@
+section {
+  background: aqua;
+  position: absolute;
+  top: 50px;
+  left: 500px;
+}
+
+div {
+  margin: 20px;
+  background: yellow;
+  width: 400px;
+}
+
+#text2 {
+  position: absolute;
+  top: 0px;
+  left: 100px;
+  background: orange;
+}

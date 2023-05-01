@@ -1,0 +1,55 @@
+.content {
+  background-color: bisque;
+}
+
+h2 {border-style: solid;
+  border-color: aquamarine;
+  background-color: aqua;}
+
+.h2-1 {
+  width: 200px;
+  height: 200px;
+  /* width and height set size of the content box */
+  
+  padding-top: 20px;
+  padding-bottom: 20px; 
+  padding-left: 20px;
+  padding-right: 20px;
+  
+  
+  border-top-width: 20px;
+  border-bottom-width: 20px;
+  border-left-width: 20px;
+  border-right-width: 20px;
+  
+  
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 20px;
+  margin-right: 20px;	
+}
+
+.h2-2 {
+  width: 200px;
+  height: 200px;
+  
+  padding: 20px;
+  
+  border-width: 20px;
+  
+  margin: 20px;
+}
+  
+.h2-3 {
+  width: 50%;
+  height: 50%;
+  
+  /* 2 values is |top+bottom|left+right| */
+  padding: 40px 80px;
+  
+  /* 3 values is |top|left+right|bottom| */
+  border-width: 20px 10px 5px;
+  
+  /* 4 values is clockwise |top|right|bottom|left| */
+  margin: 60px 40px 20px 0px;
+}

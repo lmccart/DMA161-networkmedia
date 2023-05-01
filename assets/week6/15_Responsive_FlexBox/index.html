@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>flexbox examples</title>
+    <link rel="stylesheet" href="style.css">
+	<style>
+		html{
+			font-size: 150%;
+		}
+				
+		.divWithDisplayFlex {
+			width: 100%;
+			
+			/* 'display: flex' on a container makes its children into flex items */
+			display: flex; 
+			
+			/* lays the children out in rows, could also be 'column', 'row-reverse', or 'column-reverse' */
+			flex-direction: row; 
+			
+			/* sets the gap between the rows + columns, can set individually with column-gap an row-gap */
+			gap: 20px; 
+			
+			/* wraps the children making them fit within the flex box */
+			/*flex-wrap: wrap;*/
+			
+			/*aligns the items to different areas of the flex box*/
+			/*align-items: flex-start;*/
+			
+			/*justify-content: space-between;*/
+			
+		}
+		
+		.text {
+			margin: 20px;
+			background-color: beige;
+			
+		}
+		/*
+		.one {
+			flex-grow: 2;
+			flex-shrink: 1;
+			flex-basis: 100px;
+		}
+		
+		.two {
+			flex: 1 1 100px;
+		}
+		
+		.three {
+			flex: 1 1 100px;
+		}
+		*/
+		
+	</style>
+  </head>
+  <body>
+    <div class="divWithDisplayFlex">
+      	<div class="text one">ONE: Some Text</div>
+		<div class="text two">TWO:Some More Text</div>
+		<div class="text three">THREE: <br>Even <br>more <br>text</div>
+    </div>
+	<div>
+		<a href="https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox">see mozilla documentation</a>
+	</div>
+  </body>
+</html>

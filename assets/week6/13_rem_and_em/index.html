@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+	<head>
+    	<title>My Stylin Page</title>
+    	<style>
+			html {
+				font-size: 100% } /* 100% here means 100% of the default font-size, normally 16 pt.*/ 
+			
+				.em { font-size: 1.5em; } /* em is a relative unit set relative to the parent element, in this case the font is sized as 1.5x the parent element. Be careful with nesting , because this multiplication will happen repeatedly. */
+			
+				.rem { font-size: 1.5rem } /* rem is a relative unit unit scaled relative to the root unit, <html>, this is more stable and consistent as nested elements won't multiply repeatedly. However, it can become unwieldy the more customization you want on different sizes of your webpage. */
+			
+    	</style>
+	</head>
+  	<body>
+    	<ul>
+			<li class="em">list step 1, em
+				<ul>
+					<li class="em">list step 2, em
+						<ul>
+							<li class="em">list step 3, em</li>
+						</ul>
+					</li>
+				</ul>
+			</li>
+	  	</ul>
+		
+		<ul>
+			<li class="rem">list step 1, rem
+				<ul>
+					<li class="rem">list step 2, rem
+						<ul>
+							<li class="rem">list step 3, rem</li>
+						</ul>
+					</li>
+				</ul>
+			</li>
+	  	</ul>
+  	</body>
+</html>

@@ -1,0 +1,17 @@
+#text {
+  width: 400px;
+  padding: 20px;
+  border: 6px solid #949599;
+  margin: 20px;
+  /* height: 100px; */
+  /* overflow: hidden; */
+}
+
+#colorblock {
+  background: red;
+  width: 150px;
+  height: 100px;
+  padding: 50px;
+  border: 20px solid blue;
+  margin: 10px;
+}

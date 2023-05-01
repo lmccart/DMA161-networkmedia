@@ -1,0 +1,24 @@
+
+/* even better would be to make this a named class */
+div {
+  width: 30%;
+  margin-right: 5%;
+  float: left;
+}
+
+.last-div {
+  margin-right: 0;
+}
+
+
+header {
+  font-size: 3em;
+  text-align: center;
+}
+
+footer {
+  text-align: center;
+  font-size: 2em;
+  background: aqua;
+  clear: both;
+}

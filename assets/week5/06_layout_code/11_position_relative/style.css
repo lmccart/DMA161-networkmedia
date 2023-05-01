@@ -1,0 +1,12 @@
+div {
+  margin: 20px;
+  background: yellow;
+  width: 400px;
+}
+
+#text2 {
+  background: orange;
+  position: relative;
+  top: 50px;
+  left: 50px;
+}

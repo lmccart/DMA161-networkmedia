@@ -1,0 +1,9 @@
+div {
+  display: block;
+}
+
+span {
+  display: block;
+  /* display: inline; */
+  background: aqua;
+}

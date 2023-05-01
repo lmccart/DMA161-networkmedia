@@ -1,0 +1,11 @@
+html{
+	/* font-size: 75%; */
+}
+
+p {
+  font-size: 12px;
+  width: 400px;
+  /* width: 50%; */
+  /* width: 5em; */
+  /* width: 5rem; */
+}

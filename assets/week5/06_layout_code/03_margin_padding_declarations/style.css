@@ -1,0 +1,14 @@
+#text {
+  width: 400px;
+  background: aqua;
+  padding: 0px 50px 100px 200px;
+  margin: 0px 50px;
+}
+
+#colorblock {
+  background: red;
+  width: 100px;
+  height: 100px;
+  margin-top: 50px;
+  margin-left: 500px;
+}

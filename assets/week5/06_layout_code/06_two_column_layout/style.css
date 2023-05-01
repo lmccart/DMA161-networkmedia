@@ -1,0 +1,21 @@
+div {
+  background: hotpink;
+  float: left;
+  width: 50%;
+}
+
+
+/* this is a way to add middle separation
+
+div {
+  background: hotpink;
+  width: 48%;
+}
+
+#text1 {
+  float: left;
+}
+
+#text2 {
+  float: right;
+}*/

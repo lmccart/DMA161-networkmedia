@@ -1,0 +1,24 @@
+div {
+  width: 48%;
+  height: 100%;
+}
+
+#text1 {
+  float: left;
+}
+
+#text2 {
+  float: right;
+}
+
+header {
+  font-size: 3em;
+  text-align: center;
+}
+
+footer {
+  text-align: center;
+  font-size: 2em;
+  background: aqua;
+  clear: both;
+}

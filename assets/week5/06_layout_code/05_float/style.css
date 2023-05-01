@@ -1,0 +1,15 @@
+/* doesn't work, text aligns with bottom of the image
+img {
+  display: inline;
+}
+
+div {
+  display: inline;
+}*/
+
+
+img {
+  float: left;
+  /* float: right; */
+  margin-right: 20px;
+}
