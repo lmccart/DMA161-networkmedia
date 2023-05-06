@@ -1,0 +1,70 @@
+html, body{
+			font-size: 120%;
+			margin: 0px;
+		}
+		
+		.grid-container-1 {
+			/* setting display to grid on the containing element to establish our grid */
+			display:grid;
+			
+			/* establishing the column of our grid by, establishing the width of each column. The unit i've used is 'fr' standing for fraction. an 'fr' takes up a fraction of the available space. '1fr 3fr 1fr' is Similar to the percentage '20% 60% 20%' but it automatically subracts out unavailable space like our 'gap'  */
+			grid-template-columns: 1fr 3fr 1fr;
+			
+			/* in order to establish our grid we've named each element with the 'grid-area' property then assigned those names to grid loactions using grid template areas. each row is a line sperated with quotation marks. Each area name takes up a certain number of columns, so 'titleArea' takes up two columns in the first row. Periods '.' denote a gap, so the first two columns are empty in row two. */ 
+			grid-template-areas: 
+				"titleArea titleArea menuArea"
+				". . menuArea"
+				"mainArea mainArea otherArea"
+				"footerArea footerArea footerArea";
+			gap: 1rem;
+		}
+		
+		/* In order to make the grid responsive, I've used a media query and reestablished it as a single column grid. Although naming grid area's and re-establishing the grid involves more lines of code, it is in my opinion the easiest way to implement a responsive grid layout with maximum control*/
+		@media screen and (max-width: 700px) {
+			.grid-container-1 {
+				display:grid;
+				grid-template-columns: 1fr;
+				grid-template-areas: 
+					"menuArea"
+					"titleArea"
+					"mainArea"
+					"otherArea"
+					"footerArea";
+			}
+		}
+		
+		/* The section below is where I've named my grid areas, each class is given the grid-area property and the name for each is defined so they can be referenced above with 'grid-template-areas' */
+		.title{
+			grid-area: titleArea;
+			background-color: aquamarine
+		}
+		
+		.menu {
+			grid-area: menuArea;
+			background-color: aqua
+			
+			
+		}
+		
+		.menu ul{
+			list-style-type: none;
+		}
+		
+		.main {
+			grid-area: mainArea;
+			background-color: burlywood;
+		}
+		
+		.other {
+			grid-area: otherArea;
+			background-color:bisque;
+		}
+		
+		.footer {
+			grid-area: footerArea;
+			background-color: darksalmon;
+		}
+		
+		
+		
+		

@@ -1,0 +1,64 @@
+html, body{
+			font-size: 120%;
+			margin: 0px;
+		}
+		
+		.grid-container-1 {
+			/* setting display to grid on the containing element to establish our grid */
+			display:grid;
+			
+			/* here we're establishing a similar grid, but we're nameing each of the gridlines in brackets. We can then establish where are content is in the grid by declaring what grid lines it starts and ends at. Lines are also automatically numbered, here 'first' could also be referenced with '1'. Grid lines can have multiple names seperated with spaces.*/
+			grid-template-columns: [first]1fr [wide-middle second]3fr [third] 1fr [end];
+			
+			/* if a gridline shares a name its name is automatically numbered, because we have multiple 'row-start', they can be referenced with thier name and count: 'row-start 1'. */
+			grid-template-rows: [row-start]auto [row-start]auto [row-start]auto;
+			/* grid-template-rows: repeat([row-start]1fr); */
+			gap: 1rem;
+		}
+		
+		/* here I'm defining where my grid areas are, this is more complicated than the named areas, but it does have the advantage that elements can overlap */
+		.title{
+			/* grid areas can be defined with four properties, 'grid-column-start' and 'grid-row-start' defining where the area starts. This can take a name of a gridline or its number. They can further be defined with 'grid-row-end', and 'grid-row-end'. Again these can take a name and number signiying where it ends.*/
+			grid-column-start: first;
+			/* these grid column and row declarations can also take 'span' + number or name. 'span + number' means it'll span that many rows or columns. 'span + name' means it'll span until it reaches the named gridline. */ 
+			grid-column-end: span end;
+			
+			/* this not notation can be shortened by using 'grid-row' or 'grid-column' + the start and end seperated by a '/' */
+			grid-row: 1 / span 1;
+			
+			background-color: aquamarine
+		}
+		
+		.menu {
+			background-color: aqua;
+			opacity: .5;
+			grid-column: third / 4;
+			grid-row: 1 / 3;
+			
+			/*
+			justify-self: center;
+			align-self: center;
+			*/	
+		}
+		
+		.main {
+			background-color: burlywood;
+			/* declarations can be shortened even further using 'grid-area' the order is:'grid-area: <row-start> / <column-start> / <row-end> / <column-end>' */
+			grid-area: 2 / 2 / 3 / span 1;
+		}
+		
+		.other {
+			background-color:bisque;
+			grid-row: 3;
+			grid-column: 1 / 4;
+		}
+		
+		.footer {
+			background-color: darksalmon;
+			/* grids can be both Explicit and Implicit. An explicit grid is fully defined, an Implicit grid is not. Here I've set the footer to be in row 4, but we only defined 3 rows in our grid explicitly */
+			grid-row: 4;
+			grid-column: 1 / 4;
+		}
+
+/* note I didn't make this one responsive, this is because we're defining our grid areas in the style for each individual element, inorder to redefine all of them we would need to wrap all of them in media query and define all of them a second time. Very inefficient, instead if you want things to occupy the same area, you could mix both methods, defining most elements with grid area names and the overlapped elements with gridline names or numbers so only those elements need to be redefined. */
+		

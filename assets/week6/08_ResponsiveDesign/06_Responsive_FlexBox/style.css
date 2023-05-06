@@ -1,0 +1,52 @@
+html{
+			font-size: 200%;
+		}
+				
+		.divWithDisplayFlex {
+			/* width: 100%; */
+			
+			/* 'display: flex' on a container makes its children into flex items */
+			display: flex; 
+			
+			/* lays the children out in rows, could also be 'column', 'row-reverse', or 'column-reverse' */
+			flex-direction: row; 
+			
+			/* sets the gap between the rows + columns, can set individually with column-gap an row-gap */
+			gap: 20px; 
+			
+			/* wraps the children making them fit within the flex box */
+			/*flex-wrap: wrap;*/
+			
+			/*aligns the items to different areas of the flex box, vertically*/
+			/* align-items: flex-end; */
+			
+			
+			/* sets how browser displays content with in the flex box and space around them horizontally */
+			/* justify-content: space-between; */
+			
+		}
+		
+		.text {
+			padding: 20px;
+			background-color: beige;
+			
+		}
+		
+		/* .one {
+			/* sets grow factor of item size, so this will grow up to twice as much */
+		/*	flex-grow: 2;
+			/* sets how much item will shrink within flex box, 1 is same as others, 0 is won't shrink. More than one is proportional. */ 
+		/*	flex-shrink: 1;
+			/* sets the initial size it'll grow and shrink from; */
+		/*	flex-basis: 100px;
+		}
+		
+		.two {
+			flex: 1 1 100px;
+		}
+		
+		.three {
+			flex: 1 1 100px;
+		} */
+		
+		
