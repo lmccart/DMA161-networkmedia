@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>flexbox examples</title>
+    <link rel="stylesheet" href="style.css">
+	<style>
+		.flex-container {
+			display: flex;
+			flex-direction: row;
+			background: black
+		}
+		.flex-item-left {
+			background: yellow;
+			flex: 50%;
+		}
+
+		.flex-item-right {
+			background: orange;
+			flex: 50%;
+		}
+
+
+		/* Responsive layout - makes a one column layout instead of a two-column layout */
+		@media (max-width: 800px) {
+			.flex-container {
+				flex-direction: column;
+			}
+		}
+				
+	</style>
+  </head>
+  <body>
+		<section class="flex-container">
+			<div class="flex-item-left">1</div>
+			<div class="flex-item-right">2</div>
+		</section>
+  </body>
+</html>

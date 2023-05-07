@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>flexbox examples</title>
+    <link rel="stylesheet" href="style.css">
+	<style>
+		.flex-container {
+			display: flex;
+			height: 300px;
+			background-color: DodgerBlue;
+		}
+
+		div {
+			background: orange;
+			font-size: 100px;
+			padding: 10px;
+			flex-grow: 1;
+		}
+
+		.a {
+			flex-grow: 2;
+			background: red;
+		}
+
+		.b {
+			background: yellow;
+		}
+		
+		.c {
+			background: green;
+		}
+		.d {
+			background: purple;
+		}
+		
+		
+	</style>
+  </head>
+  <body>
+		<section class="flex-container">
+			<div class="a">1</div>
+			<div class="b">2</div>
+			<div class="c">3</div>
+			<div class="d">4</div>
+		</section>
+  </body>
+</html>
