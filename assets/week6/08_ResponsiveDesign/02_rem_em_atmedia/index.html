@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+	<head>
+    	<title>My Stylin Page</title>
+    	<style>
+				html { font-size: 100% } /* mobile (default is normally 16px) */
+				li { font-size: 1.5rem; }
+
+				@media screen and (min-width: 768px) { /* screens */
+					html {
+						font-size: 32px;
+					}
+				}
+    	</style>
+	</head>
+  	<body>
+    	<ul>
+			<li class="em">list step 1, em
+				<ul>
+					<li class="em">list step 2, em
+						<ul>
+							<li class="em">list step 3, em</li>
+						</ul>
+					</li>
+				</ul>
+			</li>
+	  	</ul>
+		
+		<ul>
+			<li class="rem">list step 1, rem
+				<ul>
+					<li class="rem">list step 2, rem
+						<ul>
+							<li class="rem">list step 3, rem</li>
+						</ul>
+					</li>
+				</ul>
+			</li>
+	  	</ul>
+  	</body>
+</html>

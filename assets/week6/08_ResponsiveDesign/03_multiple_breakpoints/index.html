@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+	<head>
+    	<title>My Stylin Page</title>
+    	<style>
+				html { font-size: 100% } /* mobile (default is normally 16px) */
+				li { font-size: 1.5rem; }
+
+				/* Extra small devices (phones, 600px and down) */
+
+				
+				@media screen and (max-width: 600px) {
+					html {
+						font-size: 12px;
+					}
+				}
+
+				/* Small devices (portrait tablets and large phones, 600px and up) */
+				@media screen and (min-width: 600px) {
+					html {
+						font-size: 16px;
+					}
+				}
+
+				/* Medium devices (landscape tablets, 768px and up) */
+				@media screen and (min-width: 768px) {
+					html {
+						font-size: 24px;
+					}
+				}
+				/* Large devices (laptops/desktops, 992px and up) */
+				@media screen and (min-width: 992px) {
+					html {
+						font-size: 32px;
+					}
+				}
+				/* Extra large devices (large laptops and desktops, 1200px and up) */
+				@media screen and (min-width: 1200px) {
+					html {
+						font-size: 40px;
+					}
+				}
+		</style>
+	</head>
+  	<body>
+    	<ul>
+			<li>list step 1, em
+				<ul>
+					<li>list step 2, em
+						<ul>
+							<li>list step 3, em</li>
+						</ul>
+					</li>
+				</ul>
+			</li>
+	  	</ul>
+		
+  	</body>
+</html>

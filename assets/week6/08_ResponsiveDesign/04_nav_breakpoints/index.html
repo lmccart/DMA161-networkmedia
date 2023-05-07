@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+	<head>
+    	<title>My Stylin Page</title>
+    	<style>
+				/* The navbar container */
+				.topnav {
+					overflow: hidden;
+					background-color: #333;
+				}
+
+				/* Navbar links */
+				.topnav a {
+					float: left;
+					display: block;
+					color: white;
+					padding: 14px 16px;
+					text-decoration: none;
+				}
+
+				.topnav a:hover {
+					background-color: blue;
+				}
+
+				/* On screens that are 600px wide or less, make the menu links stack on top of each other instead of next to each other */
+				@media screen and (max-width: 600px) {
+					.topnav a {
+						float: none;
+						width: 100%;
+					}
+				}
+		</style>
+	</head>
+  	<body>
+			<nav class="topnav">
+				<a href="#">Home</a>
+				<a href="#">Link 1</a>
+				<a href="#">Link 2</a>
+				<a href="#">Link 3</a>
+			</nav>
+		
+  	</body>
+</html>
