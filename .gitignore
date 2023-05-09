@@ -8,3 +8,6 @@ docs/*
 _notes/*
 *.mp4
 .vscode/*
+*/.vscode/*
+assets/week6/08_ResponsiveDesign/05_orientation/.vscode/
+assets/week6/08_ResponsiveDesign/04_nav_breakpoints/.vscode/
